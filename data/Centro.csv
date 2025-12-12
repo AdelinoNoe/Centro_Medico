@@ -1,0 +1,1035 @@
+﻿Data;Nome;Idade;sexo; Consulta;Valor Consulta; Exames  ;Valor Exame ; Tratamento ;Valor Tratamento;DÍVIDAS;Descrição;Estado
+01/03/2025;Joana Francisco;0;F;Consulta;1500;Urina;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+01/03/2025;Joana Francisco;0;F;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+01/03/2025;Cristiano Almeida;0;M;Consulta;1500; Não Fez ;0; Sem Tratamento ;0;0;Sem Dívida;Pago
+01/03/2025;Filomena Manuel;0;F;Consulta;1500; Não Fez ;0; Tratamento ;2000;0;Sem Dívida;Pago
+01/03/2025;Nelma Pedro;0;F;Consulta;1500; Não Fez ;0; Sem Tratamento ;0;0;Sem Dívida;Pago
+01/03/2025;Mateus Cambundo João;0;M;Consulta;1500; Não Fez ;0; Sem Tratamento ;0;0;Sem Dívida;Pago
+02/03/2025;Hugo Wakalawako;0;M;Consulta;1500;TDR Malária;1500; Tratamento ;3000;0;Sem Dívida;Pago
+02/03/2025;Arnaldo António;0;M;Consulta;1500;TDR Malária;1500; Tratamento ;7000;0;Sem Dívida;Pago
+02/03/2025;Arnaldo António;0;M;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+02/03/2025;Weza Luís;0;F;Consulta;1500;TDR Malária;1500; Tratamento ;8000;0;Sem Dívida;Pago
+02/03/2025;Weza Luís;0;F;Consulta;0;Urina;1500; Tratamento ;0;0;Sem Dívida;Pago
+02/03/2025;Lorenço Gonsálves;0;M;Consulta;1500;TDR Malária;1500; Tratamento ;1000;0;Sem Dívida;Pago
+02/03/2025;Dumilde Neto;0;M;Consulta;1500;TDR Malária;1500; Tratamento ;10000;0;Sem Dívida;Pago
+02/03/2025;Dumilde Neto;0;M;Consulta;0;VHS;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+02/03/2025;Dumilde Neto;0;M;Consulta;0;H.Pilory;3000; Sem Tratamento ;0;0;Sem Dívida;Pago
+04/03/2025;Josefa Nanjala;0.9;F;Consulta;1500;TDR Malária;1500; Tratamento ;8000;0;Sem Dívida;Pago
+04/03/2025;Josefa Nanjala;0.9;F;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+04/03/2025;Cecília Miguel;0;F;Control;0;Control TDR Malária;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+05/03/2025;Zeca Lino;0;M;Consulta;0;"
+Heograma";1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+05/03/2025;Zeca Lino;0;M;Consulta;0;Urina;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+05/03/2025;Zeca Lino;0;M;Consulta;0;glicemia;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+05/03/2025;Zeca Lino;0;M;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+06/03/2025;Luís Daniel;24;M;Consulta;1500;TDR Malária;1500; Tratamento ;7500;0;Sem Dívida;Pago
+06/03/2025;Luís Daniel;24;M;Consulta;0;VHS;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+06/03/2025;Elier José;1;M;Consulta;1500;PP;700; Tratamento ;5800;0;Sem Dívida;Pago
+07/03/2025;Hemílio Pascoal;30;M;Consulta;1500;TDR;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+07/03/2025;Hemílio Pascoal;30;M;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+07/03/2025;Wiclene Paulo;0;M;não fez;0; Não Fez ;0; Tratamento ;5000;0;Sem Dívida;Pago
+09/03/2025;Delfina Helena;69;F;Consulta;1500;TDR Malária;1500; Tratamento ;6000;0;Sem Dívida;Pago
+09/03/2025;Filipe Paulo;0;M;Consulta;1500;TDR Malária;1500; Tratamento ;6000;0;Sem Dívida;Pago
+09/03/2025;Nelson Feliciano;0;M;Consulta;1500;TDR Malária;1500; Tratamento ;5000;0;Sem Dívida;Pago
+09/03/2025;Feliciano Manuel;0;M;não fez;0; Não Fez ;0; Tratamento ;6000;0;Sem Dívida;Pago
+10/03/2025;Shelsea Leonilde;15;F;Consulta;1500;TDR;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+10/03/2025;Shelsea Leonilde;15;F;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+10/03/2025;Teresa Kawala;28;F;Consulta;1500; Não Fez ;0; Sem Tratamento ;0;0;Sem Dívida;Pago
+10/03/2025;Mark Leonardo;0;M;Consulta;1500; Não Fez ;0; Sem Tratamento ;0;0;Sem Dívida;Pago
+11/03/2025;Jamila Manuel;18;F;Consulta;1500;Helicobacter Hpiloly;3000; Sem Tratamento ;0;0;Sem Dívida;Pago
+11/03/2025;Jamila Manuel;18;F;Consulta;0;VHS;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+10/03/2025;Teresa Kawala;0;F;Consulta;1500; Não Fez ;0; Sem Tratamento ;0;0;Sem Dívida;Pago
+11/03/2025;Menino da tala;0;M;não fez;0; Não Fez ;0; Tratamento ;500;0;Sem Dívida;Pago
+11/03/2025;Elsa Jose Brandão;27;F;Consulta;1500; Não Fez ;0; Sem Tratamento ;0;0;Sem Dívida;Pago
+11/03/2025;Cláudio Júnior;0;M;Consulta;1500;TDR M;1500; Tratamento ;6000;0;Sem Dívida;Pago
+11/03/2025;Cláudio Júnior;0;M;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+11/03/2025;Elizabeth António;22;F;Consulta;0;Teste R. Gravidez;1000; Sem Tratamento ;0;0;Sem Dívida;Pago
+12/03/2025;Edna Martins;21;F;Consulta;1500;Urina;1500; Tratamento ;7000;0;Sem Dívida;Pago
+12/03/2025;Alberto Raul;55;M;Consulta;1500;TDR M;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+12/03/2025;Alberto Raul;55;M;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+12/03/2025;Gabriela Troco;5;F;Consulta;1500;TDR M;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+12/03/2025;Gabriela Troco;5;F;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+13/03/2025;Anderson Domingos;0;M;Consulta;1500;Urina;1500; Tratamento ;6000;0;Sem Dívida;Pago
+13/03/2025;Anderson Domingos;0;M;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+13/03/2025;Ana Armando;0;F;Consulta;1500;TDR M;1500; Tratamento ;7500;0;Sem Dívida;Pago
+14/03/2025;Miriam António Quinto;6;F;Consulta;1500;TDR M;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+14/03/2025;Fernando Manuel;6;F;Consulta;1500;TDR M;1500; Tratamento ;6000;0;Sem Dívida;Pago
+14/03/2025;Fernando Manuel;6;F;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+14/03/2025;Zoe Zala;6;F;Consulta;1500;TDR M;1500; Tratamento ;6000;0;Sem Dívida;Pago
+14/03/2025;Zoe Zala;6;F;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+14/03/2025;Welwitchia Kimbila;6;F;Consulta;1500;TDR M;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+14/03/2025;Welwitchia Kimbila;6;F;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+15/03/2025;Domingos Bernardo;40;M;Consulta;1500;TDR M;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+15/03/2025;Domingos Bernardo;40;M;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+15/03/2025;Marity Fula;20;F;Consulta;1500;Urina;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+15/03/2025;Mateus João;0;M;Consulta;1500;TDR M;1500; Tratamento ;6000;0;Sem Dívida;Pago
+15/03/2025;Mateus João;0;M;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+15/03/2025;Aziriete Cassoma;9;F;Consulta;1500;Vidal;1000; Tratamento ;6000;0;Sem Dívida;Pago
+15/03/2025;Aziriete Cassoma;9;F;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+16/03/2025;Gelson Gaspar;22;M;Consulta;1500;TDR M;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+16/03/2025;Mário Henriques;22;M;Consulta;1500; Não Fez ;0; Sem Tratamento ;0;0;Sem Dívida;Pago
+16/03/2025;Angela Caetano;73;F;Consulta;1502; Não Fez ;0; Sem Tratamento ;0;0;Sem Dívida;Pago
+17/03/2025;Melícia Domingos;2;F;Consulta;1500;TDR M;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+19/03/2025;Avelino Musseque;35;M;Consulta;1500;VHS;1500; Tratamento ;12000;0;Sem Dívida;Pago
+19/03/2025;Luisa Francisco;35;F;Consulta;1500;TDR M;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+19/03/2025;Luisa Francisco;35;F;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+19/03/2025;Maria Jamba;55;F;Consulta;1500;TDR M;1500; Tratamento ;5000;0;Sem Dívida;Pago
+20/03/2025;Mauro Augusto;0;M;Consulta;1500;TDR M;1500; Tratamento ;6000;0;Sem Dívida;Pago
+20/03/2025;Mauro Augusto;0;M;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+20/03/2025;Elizabeth dos santos;7;F;Consulta;1500;TDR M;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+21/03/2025;Edvino Fracisco;12;M;Consulta;1500;TDR M;1500; Tratamento ;1200;0;Sem Dívida;Pago
+21/03/2025;Edvino Fracisco;12;M;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+22/03/2025;António Dala;32;F;Consulta;1500;TDR M;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+22/03/2025;António Dala;32;F;Consulta;0;Urina;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+24/03/2025;Adersice Matias;0.3;M;Consulta;1500;TDR M;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+24/03/2025;Adersice Matias;0.3;M;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+24/03/2025;Maria Vunge;0;F;não fez;0; Não Fez ;0; Tratamento ;7000;0;Sem Dívida;Pago
+24/03/2025;Maura dos santos;0;F;Consulta;1500;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+24/03/2025;Victória Alexandre;2;F;Consulta;1500;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+25/03/2025;Graça Furtuoso;29;M;Consulta;1500;Urina;1500; Tratamento ;6000;0;Sem Dívida;Pago
+25/03/2025;Daniela Manuel;26;F;Consulta;1500;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+25/03/2025;Miriany Quintas;6;F;Consulta;1500;Vidal;1000; Sem Tratamento ;0;0;Sem Dívida;Pago
+25/03/2025;Rossandro Gerónimo;1;M;Consulta;1500; Não Fez ;0; Sem Tratamento ;0;0;Sem Dívida;Pago
+26/03/2025;Maurício Henrriques;19;M;Consulta;1500;TDR Sifills;2000; Sem Tratamento ;0;0;Sem Dívida;Pago
+26/03/2025;Maurício Henrriques;19;M;Consulta;0;Urina;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+26/03/2025;Jandira Manuel;21;F;Consulta;1500;Urina ;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+26/03/2025;Jandira Manuel;21;F;Consulta;0;VHS;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+26/03/2025;Jandira Manuel;21;F;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+26/03/2025;Abel Domingos;0;M;Consulta;1500;TDR M;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+26/03/2025;Abel Domingos;0;M;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+26/03/2025;Maurício Henrriques;0;M;não fez;0; Não Fez ;0; Sem Tratamento ;0;0;Sem Dívida;Pago
+27/03/2025;Nelsa António;0;F;Consulta;1500;TDR M;1500; Tratamento ;5300;0;Sem Dívida;Pago
+27/03/2025;Nelsa António;0;F;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+27/03/2025;Victória Manuel;9;F;Consulta;1500;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+28/03/2025;Abne Lukenio;10;M;Consulta;1500;TDR M;1500; Tratamento ;1200;0;Sem Dívida;Pago
+28/03/2025;Abne Lukenio;10;M;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+28/03/2025;Josefina Gabriel;0;F;Consulta;1500;TDR M;1500; Tratamento ;7800;0;Sem Dívida;Pago
+28/03/2025;Josefina Gabriel;0;F;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+28/03/2025;Cleusio Abadias;0.8;M;Consulta;1500;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+29/03/2025;José Ventura;17;M;Consulta;1500;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+29/03/2025;Bertine Ricardo;1;M;Consulta;1500;TDR M;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+29/03/2025;Jose Muatchilunda;0;F;Consulta;1500;H. Piloly;3000; Sem Tratamento ;0;0;Sem Dívida;Pago
+29/03/2025;Jose Muatchilunda;0;F;Consulta;0;TDR M;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+29/03/2025;Jose Muatchilunda;0;F;Consulta;0;widal;1000; Sem Tratamento ;0;0;Sem Dívida;Pago
+29/03/2025;Jose Muatchilunda;0;F;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+29/03/2025;Alberina Kandulo;0;F;não fez;0; Não Fez ;0; Tratamento ;4000;0;Sem Dívida;Pago
+29/03/2025;Odeth;0;F;não fez;0; Não Fez ;0; Sem Tratamento ;0;0;Sem Dívida;Pago
+30/03/2025;Teresa Manuel;13;F;Consulta;1500;TDR M;1500; Tratamento ;1000;0;Sem Dívida;Pago
+30/03/2025;Quelsia Domingos;0;F;Consulta;1500;TDR M;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+30/03/2025;Quelsia Domingos;0;F;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+30/03/2025;Esperança Manuel;18;F;Consulta;1500;TDR M;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+30/03/2025;Gonsalo Domingos;6;M;Consulta;1500;TDR M;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+30/03/2025;Gonsalo Domingos;6;M;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+30/03/2025;Cecília de Nascimento;14;F;Consulta;1500;TDR M;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+30/03/2025;João Gonsalo;0;M;Consulta;1500;TDR M;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+31/03/2025;Anderson Domingos;34;M;Consulta;1500; Não Fez ;0; Sem Tratamento ;0;0;Sem Dívida;Pago
+31/03/2025;Fernanda Carvalho;23;F;Consulta;1500;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+31/03/2025;Lito Martins;61;M;Consulta;1500;TDR M;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+31/03/2025;Lito Martins;61;M;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+31/03/2025;Lito Martins;61;M;Consulta;0;Widal;1000; Sem Tratamento ;0;0;Sem Dívida;Pago
+31/03/2025;Lito Martins;61;M;Consulta;0;Glicêmia;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+31/03/2025;Domingas João;0;F;Consulta;1500;TDR M;1500; Tratamento ;2000;0;Sem Dívida;Pago
+31/03/2025;Domingas João;0;F;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+31/03/2025;Daniela de Fátima;0;F;Consulta;1500;Widal;1000; Sem Tratamento ;0;0;Sem Dívida;Pago
+31/03/2025;Daniela de Fátima;0;F;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+01/04/2025;Miriany António;3;F;Consulta;0;H. Pilory;3000; Tratamento ;0;0;Sem Dívida;Pago
+01/04/2025;Domingas;0;F;Consulta;0;Não Fez;0; Tratamento ;2000;0;Sem Dívida;Pago
+02/04/2025;Diquizeka Pedro;23;M;Consulta;1500;TDR M;1500; Tratamento ;0;0;Sem Dívida;Pago
+02/04/2025;Diquizeka Pedro;23;M;Consulta;0;URINA;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+02/04/2025;Diquizeka Pedro;23;M;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+02/04/2025;Roberto  Maimba;14;M;Consulta;1500;PP;700; Tratamento ;0;0;Sem Dívida;Pago
+02/04/2025;Fábia Kambila;0;F;Consulta;0;Não Fez;0; Tratamento ;4000;0;Curativo do Furúnculo;Pago
+02/04/2025;Evaristo de Andrade;0;M;Consulta;1500;PP;700; Tratamento ;0;0;O TDR Aparece apenas na fatura;Pago
+02/04/2025;Evaristo de Andrade;0;M;Consulta;0;TDR M;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+03/04/2025;Cláuia Gabriel;25;F;Consulta;1500;TDR M;1500; Tratamento ;3800;4200;Tratamento;Não Pago
+03/04/2025;Cláuia Gabriel;25;F;Consulta;0;URINA;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+03/04/2025;Cláuia Gabriel;25;F;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+03/04/2025;Belmira Júlia;40;F;Control;1500;TDR M;1500; Tratamento ;0;0;Sem Dívida;Pago
+03/04/2025;Belmira Júlia;40;F;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+03/04/2025;Alberto Kawawa;0;M;Control;1500;Urina;1500; Tratamento ;2000;0;Sem Dívida;Pago
+04/04/2025;Lorenço Alendre;0;M;Control;1500;TDR M;1500; Tratamento ;0;0;Sem Dívida;Pago
+04/04/2025;Lorenço Alendre;0;M;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+04/04/2025;Augustinho Manuel;0;M;Consulta;0;Não Fez;0; Tratamento ;1000;0;Curativo;Pago
+05/04/2025;Sebastião Pascoal;0;M;Consulta;2000;TDR M;1500; Tratamento ;9000;0;Sem Dívida;Pago
+05/04/2025;Sebastião Pascoal;0;M;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+06/04/2025;Wiliam Simão;33;M;Consulta;2000;TDR M;1500; Tratamento ;0;0;Sem Dívida;Pago
+06/04/2025;Wiliam Simão;33;M;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+06/04/2025;suzana Gravata;50;F;Consulta;2000;TDR M;1500; Tratamento ;5000;4000;Tratamento;Pago
+06/04/2025;suzana Gravata;50;F;Consulta;0;URINA;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+06/04/2025;suzana Gravata;50;F;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+06/04/2025;Graciana dos Santos;10;F;Consulta;2000;TDR M;1500; Tratamento ;9000;0;Sem Dívida;Pago
+06/04/2025;Graciana dos Santos;10;F;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+06/04/2025;Gracieth dos Santos;19;F;Consulta;2000;TDR M;1500; Tratamento ;0;0;Sem Dívida;Pago
+06/04/2025;Gracieth dos Santos;19;F;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+07/04/2025;Jacira Mbiangue;19;F;Consulta;1500;PP;700; Tratamento ;0;0;Sem Dívida;Pago
+07/04/2025;Sebastião Pascoal;0;M;Consulta;0;Glicêmia;1500; Tratamento ;0;0;Sem Dívida;Pago
+07/04/2025;Serafim ;0;M;Consulta;0;Não Fez;0; Tratamento ;5000;0;dívida de Janeiro faltam 2.000;Pago
+08/04/2025;Joana Kambila;16;F;Consulta;2000;TDR M;1500; Tratamento ;5000;4000;Tratamento;Pago
+08/04/2025;Joana Kambila;16;F;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+08/04/2025;Cláudio Kambila;8;M;Consulta;2000;TDR M;1500; Tratamento ;10500;10500;TDR + Tratamento;Pago
+08/04/2025;Cláudio Kambila;8;M;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+08/04/2025;Malaquias Lupine;25;M;Consulta;2000;PP;700;SORO;1500;0;Sem Dívida;Pago
+08/04/2025;Mateus Simão;29;M;Consulta;2000; Não Fez ;0; Sem Tratamento ;0;0;Sem Dívida;Pago
+08/04/2025;Cléusia Armando;21;F;Consulta;2000;Urina;1500; Tratamento ;0;0;Sem Dívida;Pago
+08/04/2025;Cléusia Armando;21;F;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+09/04/2025;Carlos Capinha Capitango;71;M;Consulta;2000;TDR M;1500; Tratamento ;0;0;Sem Dívida;Pago
+09/04/2025;Carlos Capinha Capitango;71;M;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+09/04/2025;Júnior Onésio;3;M;Consulta;2000; Não Fez ;0; Sem Tratamento ;0;0;Sem Dívida;Pago
+09/04/2025;Paulino Jorge Francisco;21;M;Consulta;2000; Não Fez ;0; Sem Tratamento ;0;0;Sem Dívida;Pago
+10/04/2025;Elizabeteh Pestana;27;F;Consulta;2000;TDR M;1500; Tratamento ;9000;6200;Tratamento;Pago
+10/04/2025;Elizabeteh Pestana;27;F;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+10/04/2025;Márcia Sayele ;19;F;Consulta;2000;TDR M;1500; Tratamento ;0;1000;exames;Pago
+10/04/2025;Márcia Sayele ;19;F;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+10/04/2025;Bernadeth;0;F;Consulta;2000; Não Fez ;0; Sem Tratamento ;0;0;Sem Dívida;Pago
+10/04/2025;Isayane João;0;F;Consulta;2000; Não Fez ;0; Sem Tratamento ;0;0;Sem Dívida;Pago
+10/04/2025;Emerciane Augusto;24;F;Desconto Familiar;0;TDR;1500; Tratamento ;10500;13700;exames,Tratamento;Pago
+10/04/2025;Emerciane Augusto;24;F;Consulta;0;Widall;1000; Sem Tratamento ;0;0;Sem Dívida;Pago
+10/04/2025;Emerciane Augusto;24;F;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+11/04/2025;António Gomes;28;F;Consulta;2000;TDR M;1500; Tratamento ;9000;12200;Soro + Tratamento;Pago
+11/04/2025;António Gomes;28;F;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+11/04/2025;Emília Miguel;5;F;Consulta;2000;PP;700; Tratamento ;0;0;Sem Dívida;Pago
+11/04/2025;Sónia Miguel;30;F;Consulta;2000;TDR M;1500; Tratamento ;0;1500;TDR ;Não Pago
+11/04/2025;Wayela dos Santos;0;F;Consulta;2000;TDR M;1500; Tratamento ;0;500;TDR e Consultas;Não Pago
+11/04/2025;Josefina Sainda;0;F;Consulta;2000;TDR M;1500; Tratamento ;9000;13200;Investigar;Não Pago
+11/04/2025;Josefina Sainda;0;F;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+11/04/2025;João Guepe;46;M;Consulta;2000;Widall;1000; Tratamento ;0;0;Sem Dívida;Pago
+11/04/2025;João Guepe;46;M;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+12/04/2025;Antónica Fernandes;15;F;Consulta;2000;TDR M;1500; Tratamento ;0;0;Sem Dívida;Pago
+12/04/2025;Vander Frutuoso;15;M;Consulta;2000;TDR M;1500; Tratamento ;9000;13200;Cons. Exames e Tratamento;Pago
+12/04/2025;Vander Frutuoso;15;M;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+12/04/2025;Luana Andrade;0;F;Consulta;2000; Não Fez ;0;6 injeções;9000;9000;Cons. e Tratmento;Não Pago
+13/04/2025;Manuel Reis;22;M;Consulta;2000;TDR M;1500; Tratamento ;9000;9000;Tratamento;Pago
+13/04/2025;Manuel Reis;22;M;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+13/04/2025;Geovane Pedro;19;M;Consulta;2000;TDR M;1500; Tratamento ;0;200;Tem dívida;Pago
+13/04/2025;Geovane Pedro;19;M;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+13/04/2025;Juliana João;33;F;Consulta;2000;TDR M;1500; Tratamento ;0;3500;Cons. E TDR;Não pago
+14/04/2025;Paulina Lino;73;F;Consulta;2000;Glicémia;2000; Tratamento ;0;0;Sem Dívida;Pago
+14/04/2025;Paulo Mmuquixi;50;M;Consulta;2000; Não Fez ;0;1 Injeção;500;0;Sem Dívida;Pago
+14/04/2025;Etiandra dos Santos;16;F;Consulta;2000;TDR M;1500;Soro;1200;6200;Cons, TDR ,PP ,Soro;Pago
+14/04/2025;Etiandra dos Santos;16;F;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+15/04/2025;António Bula;45;F;Consulta;2000;TDR M;1500; Tratamento ;0;1200;Cons. E exames;Pago
+15/04/2025;António Bula;45;F;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+15/04/2025;Idalina Sayele;22;F;Consulta;2000;TDR M;1500; Tratamento ;0;0;Sem Dívida;Pago
+15/04/2025;Idalina Sayele;22;F;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+15/04/2025;João Dinis;35;M;Consulta;2000;TDR M;1500; Tratamento ;9000;0;Sem Dívida;Pago
+15/04/2025;João Dinis;35;M;Consulta;0;URINA;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+15/04/2025;João Dinis;35;M;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+15/04/2025;Martinho Domingos;45;M;Consulta;2000;PP;700; Tratamento ;0;0;Sem Dívida;Pago
+15/04/2025;Uziele Pedro;3;M;Consulta;2000;TDR M;1500; Tratamento ;0;0;Sem Dívida;Pago
+15/04/2025;Maria Miguel;0;F;Consulta;2000;TDR M;1500; Tratamento ;0;200;cons.;Pago
+15/04/2025;Maria Miguel;0;F;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+15/04/2025;José Pola;0;M;Consulta;2000;TDR M;1500; Tratamento ;9000;2200;Cons. E exames;Pago
+15/04/2025;José Pola;0;M;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+15/04/2025;Maria Nhanga;0;F;Consulta;2000;H. Pilory;3000; Tratamento ;0;6500;cons. exames  e TDR;Pago
+15/04/2025;Maria Nhanga;0;F;Consulta;0;TDR M;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+16/04/2025;João Fernades Soler;47;M;Consulta;2000;TDR M;1500; Tratamento ;10000;15700;Cons. Exames e Tratamento;Pago
+16/04/2025;João Fernades Soler;47;M;Consulta;0;URINA;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+16/04/2025;João Fernades Soler;47;M;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+16/04/2025;Aila Tchissola;0.8;F;Consulta;0;PP;700; Tratamento ;0;0;Sem Dívida;Pago
+16/04/2025;Luís António;46;M;Consulta;2000;TDR M;1500; Tratamento ;0;0;Sem Dívida;Pago
+16/04/2025;Luís António;46;M;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+16/04/2025;Joaquina Joaquim;10;F;Consulta;2000;TDR M;1500;soro;2000;0;Sem Dívida;Pago
+16/04/2025;Joaquina Joaquim;10;F;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+16/04/2025;Jasiel Simão;0.7;F;Consulta;2000;TDR M;1500; Tratamento ;0;4200;Cons. E TDR E PP;Não Pago
+16/04/2025;Jasiel Simão;0.7;F;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+16/04/2025;Filomena Chaho;0.8;F;Consulta;2000;TDR M;1500; Tratamento ;0;0;Sem Dívida;Pago
+16/04/2025;Filomena Chaho;0.8;F;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+17/04/2025;Dinilson António;8;M;Consulta;2000;TDR M;1500;Quatém + 4 Injecões;2200;5700;Cons. Exames Tratamento;Não Pago
+17/04/2025;Laurindo Faustino;5;M;Consulta;0; Não Fez ;0;curativo;5000;0;Sem Dívida;Pago
+17/04/2025;Felisbela Ricardo;24;F;Consulta;2000;TDR M;1500;SORO,Tratamento;11000;6200;Cons e exames;Pago
+17/04/2025;Felisbela Ricardo;24;F;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+18/04/2025;Créusio José ;0;M;Consulta;0;PP;700; Tratamento ;0;0;Sem Dívida;Pago
+18/04/2025;Lito Martíns;0;M;Control;0;TDR M;1500; Tratamento ;0;1200;Controle;Não Pago
+18/04/2025;Lito Martíns;0;M;Consulta;0;Widall;1000; Sem Tratamento ;0;0;Sem Dívida;Pago
+18/04/2025;Lito Martíns;0;M;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+15/04/2025;José Pola;0;M;Consulta;0; Não Fez ;0; Sem Tratamento ;0;9000;Tratamento;Não Pago
+17/04/2025;Felisbela Ricardo;24;F;Consulta;0; Não Fez ;0; Sem Tratamento ;0;4000;Cons e exames;Não Pago
+01/05/2025;Elizeth António;25;F;Consulta;2000;TDR M;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+01/05/2025;Euclides Caetano;45;M;Consulta;2000;TDR M;1500; Tratamento ;9000;10000;Tratamento;Pago
+01/05/2025;Euclides Caetano;45;M;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+01/05/2025;Cris Sanana;3;F;Consulta;2000;TDR M;1500; Sem Tratamento ;0;3200;Sem Dívida;Não Pago
+01/05/2025;Cris Sanana;3;F;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+01/05/2025;Abel Domingo;1;M;Consulta;2000;TDR M;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+01/05/2025;Abel Domingo;1;M;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+01/05/2025;Inês Graça G.;27;F;Consulta;2000;TDR M;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+01/05/2025;Inês Graça G.;27;F;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+02/05/2025;Guimilson ambrósio;2;M;Consulta;2000;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+02/05/2025;Esperança Pacheco;18;F;Consulta;2000;TDR M;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+02/05/2025;Esperança Pacheco;18;F;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+03/05/2025;Daniela Francisco;10;F;Consulta;2000;TDR M;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+03/05/2025;Daniela Francisco;10;F;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+03/05/2025;Fernando Dala;30;M;Consulta;0;VHS;1500; Tratamento ;3500;0;Sem Dívida;Pago
+03/05/2025;Carlos Veríssimo;22;M;Consulta;2000;TDR M;1500; Tratamento ;9000;4000;Tratamento;Não Pago
+03/05/2025;Carlos Veríssimo;22;M;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+03/05/2025;Isaú Marcos;33;M;Consulta;2000;TDR M;1500; Tratamento ;9000;3700;Tratamento;Pago
+03/05/2025;Isaú Marcos;33;M;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+03/05/2025;Maria Manuel;0;F;Consulta;2000;TDR M;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+03/05/2025;Maria Manuel;0;F;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+03/05/2025;Emanuel Quintas;7;M;Consulta;2000;TDR M;1500; Tratamento ;9000;9200;Tratamento;Não Pago
+03/05/2025;Emanuel Quintas;7;M;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+03/05/2025;Alpha Touré;39;M;Consulta;2000;TDRM;1500;soro;0;3500;Sem Dívida;Não Pago
+03/05/2025;Alpha Touré;39;M;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+03/05/2025;Alpha Touré;39;M;Consulta;0;Widall;1000; Sem Tratamento ;0;0;Sem Dívida;Pago
+04/05/2025;Solene Pascoal;10;F;não fez;0;Não Fez;0; Tratamento ;9000;4000;Tratamento;Não Pago
+04/05/2025;Rosa dos Santos;26;F;Consulta;2000;TDRM;1500; Tratamento ;9000;0;Sem Dívida;Pago
+04/05/2025;Rosa dos Santos;26;F;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+04/05/2025;Tércio antónio;2;M;Consulta;2000;TDRM;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+04/05/2025;Tércio antónio;2;M;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+04/05/2025;Linda Quala;7;F;Consulta;2000;TDR M;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+04/05/2025;Edmilson Branco;0;M;Consulta;2000;TDRM;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+04/05/2025;Edmilson Branco;0;M;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+04/05/2025;Bejamim Bejamim;0;M;Consulta;2000;TDRM;1500; Tratamento ;9000;0;Sem Dívida;Pago
+04/05/2025;Bejamim Bejamim;0;M;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+05/05/2025;Ilda Masaida;25;F;Consulta;2000;Urina;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+05/05/2025;Ilda Masaida;25;F;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+05/05/2025;Sara Cabitango;24;F;Consulta;2000;TDRM;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+05/05/2025;Sara Cabitango;24;F;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+05/05/2025;Augusto Elu;71;M;Consulta;2000;H. Polory;3000; Sem Tratamento ;0;0;Sem Dívida;Pago
+05/05/2025;Augusto Elu;71;M;Consulta;0;TDR M;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+05/05/2025;Angelino Rocha;0.3;M;Consulta;2000;Não Fez;0; Sem Tratamento ;0;0;Sem Dívida;Pago
+05/05/2025;Hernany C. Miguel;7;M;Consulta;2000;TDRM;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+05/05/2025;Hernany C. Miguel;7;M;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+05/05/2025;Marcelina Fonceca;0;F;Consulta;2000;Não Fez;0; Sem Tratamento ;0;0;Sem Dívida;Pago
+06/05/2025;Paulo Muatchilunda;0.11;M;Consulta;2000;TDRM;1500; Sem Tratamento ;0;1200;Exames;Não Pago
+06/05/2025;Paulo Muatchilunda;0.11;M;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+06/05/2025;Edmiro Pascoal;21;M;Consulta;2000;TDRM;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+06/05/2025;Edmiro Pascoal;21;M;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+06/05/2025;Filipe Mapeque;36;M;Consulta;2000;TDRM;1500; Tratamento ;9000;1000;Tratamento;Não Pago
+06/05/2025;Filipe Mapeque;36;M;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+06/05/2025;Geovania Andrade;23;F;Consulta;2000;TDRM;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+06/05/2025;Geovania Andrade;23;F;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+06/05/2025;Adriano Bernardo;17;M;Consulta;2000;TDRM;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+06/05/2025;Adriano Bernardo;17;M;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+06/05/2025;Mila Pedro Gaspar;50;F;Consulta;2000;H. Polory;4500;omeprazol Kit;14000;15500;Exames  e Omex Kit ;Pago
+06/05/2025;Mila Pedro Gaspar;50;F;Consulta;0;TDR M;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+08/05/2025;Antunes dos Santos;2;M;Consulta;2000;TDRM;1500; Sem Tratamento ;0;4200;Consulta e Exames;Não Pago
+08/05/2025;Antunes dos Santos;2;M;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+08/05/2025;Joelson  Miguel;7;M;Consulta;2000;TDR M;1500; Sem Tratamento ;0;1700;Exames;Pago
+08/05/2025;Joelson  Miguel;7;M;Consulta;0;Urina;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+08/05/2025;Joelson  Miguel;7;M;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+08/05/2025;Alcino Chikete;34;M;Consulta;2000;TDRM;1500; Sem Tratamento ;0;2200;Consulta e Exames;Não Pago
+08/05/2025;Alcino Chikete;34;M;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+09/05/2025;Marlene Conceição;27;F;Consulta;2000;TDRM;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+09/05/2025;Marlene Conceição;27;F;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+09/05/2025;Irene F. Capitango;11; F ;Consulta;2000;TDR M;1500; Tratamento ;9000;3500;Sem Dívida;Não Pago
+09/05/2025;Irene F. Capitango;11; F ;Consulta;0;Widal;1000; Sem Tratamento ;0;0;Sem Dívida;Pago
+09/05/2025;Irene F. Capitango;11; F ;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+09/05/2025;Sílvio J. Martíns;23;M;Consulta;2000;VHS;1500; Tratamento ;9000;3400;Sem Dívida;Não Pago
+09/05/2025;Sílvio J. Martíns;23;M;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+10/05/2025;Paula Paulo;0;F;Consulta;2000;TDRM;1500; Tratamento ;9000;4000;Sem Dívida;Pago
+10/05/2025;Paula Paulo;0;F;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+10/05/2025;Isabel Volante;22;F;Consulta;2000;Widall;1000; Sem Tratamento ;0;0;Sem Dívida;Pago
+10/05/2025;Isabel Volante;22;F;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+11/05/2025;Daniela Quinguejo;11;F;Consulta;2000;TDRM;1500; Tratamento ;9000;12500;Consulta e Exames;Pago
+11/05/2025;Daniela Quinguejo;11;F;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+11/05/2025;Denzel Miguel;2;M;Consulta;2000;TDRM;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+11/05/2025;Denzel Miguel;2;M;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+11/05/2025;Leonor Pascoal;17;F;Consulta;2000;TDRM;1500; Tratamento ;9000;9000;Tratamento;Não Pago
+11/05/2025;Leonor Pascoal;17;F;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+11/05/2025;Berta Castro;26;F;Consulta;2000;TDRM;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+11/05/2025;Berta Castro;26;F;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+11/05/2025;Welwitchia Júlia;6;F;Consulta;2000;TDRM;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+11/05/2025;Welwitchia Júlia;6;F;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+11/05/2025;Ricardo Lopes;25;M;Consulta;2000;TDRM;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+11/05/2025;Ricardo Lopes;25;M;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+11/05/2025;Maria Francisco;58;F;Consulta;2000;Widall;1000; Tratamento ;9000;7000;Sem Dívida;Não Pago
+12/05/2025;Pedro Casimiro;0;M;Consulta;2000;Urina;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+12/05/2025;Pedro Casimiro;0;M;Consulta;0;Enxudado Uretral;2500; Sem Tratamento ;0;0;Sem Dívida;Pago
+12/05/2025;Judith Rodrigues;23;F;Consulta;2000;TDRM;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+12/05/2025;Judith Rodrigues;23;F;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+12/05/2025;Cléusia Armando;21;F;Consulta;2000;TDRM;1500;Tratamento, Soro;11000;6500;Sem Dívida;Não Pago
+12/05/2025;Cléusia Armando;21;F;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+12/05/2025;Martinho Manuel;45;M;Consulta;2000;TDRM;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+12/05/2025;Martinho Manuel;45;M;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+12/05/2025;Dorineth;17;F;Consulta;2000;Não Fez;0; Tratamento ;6000;0;Sem Dívida;Pago
+12/05/2025;Ebneto da Silva;2;M;Consulta;2000;TDRM;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+12/05/2025;Ebneto da Silva;2;M;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+12/05/2025;Messias Teixeira;31;F;Consulta;2000;TDRM;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+12/05/2025;Messias Teixeira;31;F;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+12/05/2025;Maria Francisco;58;F;Consulta;0;TDR M;1500;Injeção;1500;3000;Exames e Injeção;Não Pago
+13/05/2025;Denise Mácua;25;F;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+13/05/2025;Esperança Da Silva;0;F;não fez;0;Não Fez;0; Tratamento ;10000;0;Sem Dívida;Pago
+13/05/2025;Edvania Carnota;17;F;Consulta;2000;TDRM;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+13/05/2025;Edvania Carnota;17;F;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+14/05/2025;Laureta Nandala;6;F;Consulta;2000;TDRM;1500; Sem Tratamento ;0;4200;Consulta e Exames;Não Pago
+14/05/2025;Laureta Nandala;6;F;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+14/05/2025;Maria Odeth F.;0;F;Consulta;2000;TDRM;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+14/05/2025;Maria Odeth F.;0;F;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+14/05/2025;Josefa Nanjala;1;F;Consulta;2000;TDRM;1500; Tratamento ;9000;12500;Consulta e Exames;Não Pago
+14/05/2025;Josefa Nanjala;1;F;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+14/05/2025;Kainda Varela;2;F;Consulta;2000;TDRM;1500; Sem Tratamento ;0;3500;Consulta e Exames;Pago
+14/05/2025;Kainda Varela;2;F;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+14/05/2025;Otchali Sayele;4;F;Consulta;2000;TDRM;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+14/05/2025;Otchali Sayele;4;F;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+14/05/2025;Joénio Armando;2;M;Consulta;2000;TDR M;1500; Tratamento ;9000;9000;Sem Dívida;Não Pago
+14/05/2025;Pancha Pacheco;35;M;não fez;0;Não Fez;0; Tratamento ;1500;0;Sem Dívida;Pago
+15/05/2025;Abel Luawa;0;M;não fez;0;Não Fez;0;Curativo;3000;0;Sem Dívida;Pago
+15/05/2025;Deise C. Rosa;2;F;Consulta;2000;TDRM;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+15/05/2025;Deise C. Rosa;2;F;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+16/05/2025;Paulo Domingos;36;M;Consulta;2000;TDRM;1500;Soro, Tratamento;11000;0;Sem Dívida;Pago
+16/05/2025;Paulo Domingos;36;M;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+16/05/2025;Natália Bianca;0;F;Consulta;2000;TDRM;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+16/05/2025;Natália Bianca;0;F;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+16/05/2025;Salvador iguel;40;M;Consulta;2000;TDR M;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+16/05/2025;Salvador iguel;40;M;Consulta;0;H.Pillory;3000; Sem Tratamento ;0;0;Sem Dívida;Pago
+16/05/2025;Salvador iguel;40;M;Consulta;0;Fezes;3000; Sem Tratamento ;0;0;Sem Dívida;Pago
+16/05/2025;Salvador iguel;40;M;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+16/05/2025;Shelsea Pedro;0;F;Consulta;2000;TDRM;1500; Tratamento ;9000;4200;exames e consulta;Pago
+16/05/2025;Shelsea Pedro;0;F;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+16/05/2025;António Fernandes;0;M;não fez;0;Não Fez;0;Curativo;4000;0;Sem Dívida;Pago
+16/05/2025;Beatriz Armando;39;F;Consulta;2000;TDRM;1500;Soro;1200;6200;Emaxes,consulta e tratamento;Não Pago
+16/05/2025;Beatriz Armando;39;F;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+16/05/2025;Moreno G. Caetano;11;M;Consulta;2000;TDRM;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+16/05/2025;Moreno G. Caetano;11;M;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+17/05/2025;Lito Martins;62;M;Consulta;0;H. Polory;3000;Sem Tratamento;0;3000;exames;Não Pago
+17/05/2025;Carla Carnote;11;F;Consulta;2000;TDR M;1500;Soro, Tratamento;11200;0;Sem Dívida;Pago
+17/05/2025;Carla Carnote;11;F;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+17/05/2025;Carla Carnote;11;F;Consulta;0;VHS;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+17/05/2025;Joseas Ventura;17;M;Consulta;2000;TDR M;1500;Soro, Tratamento;11000;0;Sem Dívida;Pago
+17/05/2025;Joseas Ventura;17;M;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+17/05/2025;Emaculada Futila;6;F;Consulta;2000;Epistax;1000;Sem Tratamento;0;3000;Emaxes,consulta;Não Pago
+18/05/2025;Rafael Junior;5;M;Consulta;2000;TDR M;1500;Sem Tratamento;0;3500;Emaxes,consulta;Não Pago
+18/05/2025;Sara Mateus;17;F;Consulta;2000;TDR M;1500;Soro, Tratamento;11000;15200;exames e consultas;Não Pago
+18/05/2025;Sara Mateus;17;F;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+19/05/2025;Guilhermina Manuel;21;F;Consulta;2000;H.Pillory;1500; Tratamento ;9000;12500;Emaxes,consulta e tratamento;Não Pago
+19/05/2025;Guilhermina Manuel;21;F;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+19/05/2025;Isabel H. Francisco;0;F;Consulta;2000;Widall;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+19/05/2025;Isabel H. Francisco;0;F;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+19/05/2025;Cléusio Zabadino;0.10;M;Consulta;2000;TDR M;1500;Sem Tratamento;0;4200;Emaxes,consulta;Não Pago
+19/05/2025;Cléusio Zabadino;0.10;M;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+20/05/2025;Auria Francisco;14;F;Consulta;2000;TDR M;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+20/05/2025;Auria Francisco;14;F;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+20/05/2025;Tilson Miguel;8;M;Consulta;2000;TDR M;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+20/05/2025;Tilson Miguel;8;M;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+20/05/2025;Anderson Domingos;35;M;Consulta;2000;TDR M;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+20/05/2025;Dilma Carnote;26;F;Control;1500;Não Fez;0;Sem Tratamento;0;1500;Controle;Não Pago
+20/05/2025;Esperança Fernandes;61;F;Consulta;2000;TDR M;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+20/05/2025;Esperança Fernandes;61;F;Consulta;0;Glicose;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+20/05/2025;Celita S. Chiyanga;43;F;Consulta;2000;H. Pillory;3000;Sem Tratamento;0;0;Sem Dívida;Pago
+20/05/2025;Alexandre Casimiro;43;M;Consulta;2000;TDR M;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+20/05/2025;Alexandre Casimiro;43;M;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+23/05/2025;Luther Bainga;16;M;Consulta;2000;TDR M;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+23/05/2025;Luther Bainga;16;M;Consulta;0;VHS;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+23/05/2025;Luther Bainga;16;M;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+23/05/2025;Carlos Fernando;21;M;Consulta;2000;TDR M;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+23/05/2025;Carlos Fernando;21;M;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+23/05/2025;Etiandra D. Júlio;2;F;Consulta;2000;TDR M;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+23/05/2025;Etiandra D. Júlio;2;F;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+24/05/2025;Isaura H. J. Duco;9;F;Consulta;2000;Widall;1000;Sem Tratamento;0;0;Sem Dívida;Pago
+24/05/2025;Isaura H. J. Duco;9;F;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+24/05/2025;Grimaldi Domingos;20;M;Consulta;2000;TDR M;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+24/05/2025;Grimaldi Domingos;20;M;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+24/05/2025;Euclides dos Santos;0;M;Consulta;2000;TDR M;1500;Tratamento de Alergia;3800;0;Sem Dívida;Pago
+24/05/2025;Euclides dos Santos;0;M;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+24/05/2025;Euclides Manuel;0;M;Consulta;2000;TDR M;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+24/05/2025;Euclides Manuel;0;M;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+25/05/2025;Carlos Valenti;25;M;Consulta;2000;PP;700;Sem Tratamento;0;0;Sem Dívida;Pago
+25/05/2025;Gonsalves Domingos;6;M;Consulta;2000;TDR M;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+25/05/2025;Gonsalves Domingos;6;M;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+25/05/2025;Osvaldo Simão;27;M;Consulta;2000;TDR M;1500;Injeção Arthemeter;2000;0;Sem Dívida;Pago
+25/05/2025;Osvaldo Simão;27;M;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+26/05/2025;Cláudia Ndovana;0;F;Consulta;2000;Urina;1500; Tratamento ;9000;3200;Emaxes,consulta;Não Pago
+26/05/2025;Cláudia Ndovana;0;F;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+26/05/2025;Armando Doingos;0;M;Consulta;2000;VHS;1500; Tratamento ;9000;0;Sem Dívida;Pago
+26/05/2025;Elizandro Daniel;0;M;Consulta;2000;TDR M;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+26/05/2025;Elizandro Daniel;0;M;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+27/05/2025;Guilherme Euclides;19;M;Consulta;2000;VHS;1500; Tratamento ;15000;15000;Emaxes,consulta;Pago
+27/05/2025;Guilherme Euclides;19;M;Consulta;0;TDRM;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+27/05/2025;Maura Gaspar;27;F;Consulta;0;PP;700; Tratamento ;14000;10000;Emaxes,consulta;Não Pago
+28/05/2025;Isabel D. Conceição;45;F;Consulta;2000;Grupo Sanguíneo;2000;Sem Tratamento;0;0;Sem Dívida;Pago
+28/05/2025;Isabel D. Conceição;45;F;Consulta;0;TDR Síflis;3000; Sem Tratamento ;0;0;Sem Dívida;Pago
+28/05/2025;Isabel D. Conceição;45;F;Consulta;0;TDM HBS;2000; Sem Tratamento ;0;0;Sem Dívida;Pago
+28/05/2025;Isabel D. Conceição;45;F;Consulta;0;TDR HCV;2000; Sem Tratamento ;0;0;Sem Dívida;Pago
+28/05/2025;Isabel Nangola;6;F;Consulta;2000;TDR M;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+28/05/2025;Isabel Nangola;6;F;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+29/05/2025;Isabel Lopes F;9;F;Consulta;2000;TDR M;1500; Tratamento ;9000;0;Sem Dívida;Pago
+29/05/2025;Isabel Lopes F;9;F;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+29/05/2025;Dorivaldo Ricardo;4;M;Consulta;2000;TDR M;1500;Sem Tratamento;0;13200;Emaxes,consulta;Não Pago
+29/05/2025;Dorivaldo Ricardo;4;M;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+29/05/2025;Zenildo Gomes;3;M;Consulta;2000;TDR M;1500; Tratamento ;9000;0;Sem Dívida;Pago
+29/05/2025;Zenildo Gomes;3;M;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+30/05/2025;Dádiva Albano;6;F;Consulta;0;HIV;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+30/05/2025;Madalena Albano;56;F;Consulta;0;HIV;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+30/05/2025;Albano;60;M;Consulta;0;HIV;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+30/05/2025;Francisco Domingos;11;M;Consulta;2000;PP;700;Sem Tratamento;0;0;Sem Dívida;Pago
+30/05/2025;Hermenegildo Domingos;0;M;Consulta;2000;PP;700;Sem Tratamento;0;0;Sem Dívida;Pago
+31/05/2025;Geovany Fernando;2;M;Consulta;2000;TDR M;1500; Tratamento ;9000;0;Sem Dívida;Pago
+31/05/2025;Geovany Fernando;2;M;Consulta;0;PP;700; Sem Tratamento ;0;0;Sem Dívida;Pago
+31/05/2025;Ohuasi Jeremias;2;M;Consulta;2000;TDR M;1500; Sem Tratamento ;0;0;Sem Dívida;Pago
+31/05/2025;Ohuasi Jeremias;2;M;Consulta;0;PP;700; Tratamento ;9000;5000;Emaxes,consulta;Não Pago
+01/06/2025;Marcos da Costa;0;M;Consulta;2000;Não Fez;0;Sem Tratamento;0;0;Sem Dívida;Pago
+01/06/2025;Nataniela;0;F;Consulta;2000;Não Fez;0;Sem Tratamento;0;0;Sem Dívida;Pago
+01/06/2025;Stefania Boaventura;0;F;Consulta;2000;Não Fez;0;Injeções;4000;0;Sem Dívida;Pago
+02/06/2025;Upeme Sakuila;0;M;Consulta;2000;TDRM;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+02/06/2025;Upeme Sakuila;0;M;Consulta;0;PP;700;Sem Tratamento;0;0;Sem Dívida;Pago
+02/06/2025;Carlos P. João;0;M;Consulta;2000;Não Fez;0;Curativo;5000;0;Sem Dívida;Pago
+02/06/2025;Tayana Andrade;0;F;Consulta;2000;TDRM;1500;Tratamento;9000;7200;Exames e tratamento;Não Pago
+02/06/2025;Tayana Andrade;0;F;Consulta;0;PP;700;Sem Tratamento;0;0;Sem Dívida;Pago
+02/06/2025;Lucas Katumbela;0;M;Consulta;2000;TDRM;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+03/06/2025;Lucas Katumbela;0;M;Consulta;0;PP;700;Sem Tratamento;0;0;Sem Dívida;Pago
+03/06/2025;Elisa A. Nhanga;2;F;Consulta;2000;TDRM;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+03/06/2025;Elisa A. Nhanga;0;F;Consulta;0;PP;700;Sem Tratamento;0;0;Sem Dívida;Pago
+03/06/2025;Carlos A. Lemos;19;M;Consulta;2000;TDRM;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+03/06/2025;Carlos A. Lemos;0;M;Consulta;0;PP;700;Sem Tratamento;0;0;Sem Dívida;Pago
+03/06/2025;Sónia  Cachilala;15;F;Consulta;2000;PP;700;Sem Tratamento;0;0;Sem Dívida;Pago
+03/06/2025;Carlos Cazombo;0;M;Consulta;2000;TDRM;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+04/06/2025;Carlos Cazombo;0;M;Consulta;0;PP;700;Sem Tratamento;0;0;Sem Dívida;Pago
+04/06/2025;Pintos Marcos ;43;M;Consulta;2000;TDRM;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+04/06/2025;Andreia Paulino;1;F;Consulta;2000;TDRM;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+04/06/2025;Andreia Paulino;0;F;Consulta;0;PP;700;Sem Tratamento;0;0;Sem Dívida;Pago
+04/06/2025;Rita júlio;39;F;Consulta;2000;TDRM;1500;Tratamento;9000;0;Sem Dívida;Pago
+04/06/2025;Rita júlio;39;F;Consulta;0;PP;700;Sem Tratamento;0;0;Sem Dívida;Pago
+04/06/2025;Maura Manuel;35;F;Consulta;2000;TDRM;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+04/06/2025;Maura Manuel;35;F;Consulta;0;PP;700;Sem Tratamento;0;0;Sem Dívida;Pago
+04/06/2025;Damião Cawissi;0;M;Consulta;2000;TDRM;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+04/06/2025;Damião Cawissi;0;M;Consulta;0;PP;700;Sem Tratamento;0;0;Sem Dívida;Pago
+05/06/2025;Andersia Cassoma ;6;F;Consulta;2000;TDRM;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+05/06/2025;Andersia Cassoma ;6;F;Consulta;0;PP;700;Sem Tratamento;0;0;Sem Dívida;Pago
+05/06/2025;Cecília Laurindo;4;F;Consulta;2000;TDRM;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+05/06/2025;Cecília Laurindo;4;F;Consulta;0;PP;700;Sem Tratamento;0;0;Sem Dívida;Pago
+06/06/2025;Fania Adão;4;F;Consulta;2000;TDRM;1500;Tratamento;9000;0;Sem Dívida;Pago
+06/06/2025;Fania Adão;4;F;Consulta;0;PP;700;Sem Tratamento;0;0;Sem Dívida;Pago
+06/06/2025;Josias Duarte;9;M;Consulta;2000;TDRM;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+06/06/2025;Josias Duarte;9;M;Consulta;0;PP;700;Sem Tratamento;0;0;Sem Dívida;Pago
+06/06/2025;Alvaro Andrade;25;M;Consulta;2000;TDRM;1500;Tratamento;9000;15000;Exames e tratamento;Não Pago
+06/06/2025;Alvaro Andrade;25;M;Consulta;0;PP;700;Sem Tratamento;0;0;Sem Dívida;Pago
+06/06/2025;Domingas Abril;7; F ;Consulta;2000;TDRM;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+06/06/2025;Domingas Abril;7; F ;Consulta;0;PP;700;Sem Tratamento;0;0;Sem Dívida;Pago
+06/06/2025;Tinilson Tiagol;7; F ;Consulta;2000;TDRM;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+06/06/2025;Tinilson Tiagol;7; F ;Consulta;0;PP;700;Sem Tratamento;0;0;Sem Dívida;Pago
+07/06/2025;Rosa Adão ;34; F ;Consulta;2000;Não Fez;0;Sem Tratamento;0;0;Sem Dívida;Pago
+07/06/2025;Fausto Bernardo;36; M ;Consulta;2000;Não Fez;0;Sem Tratamento;0;0;Sem Dívida;Pago
+07/06/2025;Misael dos Santos;4;M;não fez;0;Não Fez;0;Tratamento;9000;0;Sem Dívida;Pago
+08/06/2025;Andersia Cassoma ;0;F;não fez;0;Não Fez;0;Tratamento;5000;0;Sem Dívida;Pago
+08/06/2025;Helena Augusta;0;F;Consulta;2000;TDR;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+08/06/2025;Helena Augusta;0;F;Consulta;0;PP;700;Sem Tratamento;0;0;Sem Dívida;Pago
+08/06/2025;Caciana R. João;8;F;Consulta;2000;TDR;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+08/06/2025;Caciana R. João;8;F;Consulta;0;PP;700;Sem Tratamento;0;0;Sem Dívida;Pago
+08/06/2025;Caciana R. João;8;F;Consulta;0;VHS;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+09/06/2025;Caciana R. João;8;F;não fez;0;Não Fez;0;Sem Tratamento;0;0;Sem Dívida;Pago
+10/06/2025;Edna Pereira;34;F;Consulta;2000;TDR;1500;Tratamento;11000;0;Sem Dívida;Pago
+10/06/2025;Edna Pereira;34;F;Consulta;0;PP;700;Sem Tratamento;0;0;Sem Dívida;Pago
+10/06/2025;Jefersom Cambila;8;M;Consulta;2000;TDR;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+10/06/2025;Jefersom Cambila;8;M;Consulta;0;PP;700;Sem Tratamento;0;0;Sem Dívida;Pago
+10/06/2025;Alberto salima;52;M;Consulta;2000;TDR;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+10/06/2025;Alberto salima;52;M;Consulta;0;PP;700;Sem Tratamento;0;0;Sem Dívida;Pago
+10/06/2025;Marcia Feliciano;0.11;F;Consulta;2000;TDR;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+10/06/2025;Marcia Feliciano;0.11;F;Consulta;0;PP;700;Sem Tratamento;0;0;Sem Dívida;Pago
+11/06/2025;Maura dos Santos;28;F;Consulta;2000;TDR;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+11/06/2025;Maura dos Santos;28;F;Consulta;0;PP;700;Sem Tratamento;0;0;Sem Dívida;Pago
+12/06/2025;Mendes Ramos João;18;M;Consulta;2000;TDR;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+12/06/2025;Mendes Ramos João;18;M;Consulta;0;PP;700;Sem Tratamento;0;0;Sem Dívida;Pago
+12/06/2025;Adilson;11;M;Consulta;2000;TDR;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+12/06/2025;Adilson;11;M;Consulta;0;PP;700;Sem Tratamento;0;0;Sem Dívida;Pago
+12/06/2025;Sebastiana Queteque;7;M;Consulta;2000;pp;700;Sem Tratamento;0;10500;Exames e tratamento;Não Pago
+12/06/2025;Jefersom Cambila;0;M;não fez;0;Não Fez;0;Tratamento;9000;0;Sem Dívida;Pago
+13/06/2025;Clefanio Bianca;18;M;Consulta;2000;PP;700;Tratamento;9000;0;Sem Dívida;Pago
+13/06/2025;Clefanio Bianca;18;M;Consulta;0;Vidal;3000;Sem Tratamento;0;0;Sem Dívida;Pago
+13/06/2025;Nataniel Silva;3;M;Consulta;2000;Não Fez;0;Tratamento;8000;0;Sem Dívida;Pago
+13/06/2025;Rita Domingas;64;F;Consulta;2000;Não Fez;0;Tratamento;6000;0;Sem Dívida;Pago
+13/06/2025;Mendes Ramos João;18;M;não fez;0;Não Fez;0;Tratamento;9000;0;Sem Dívida;Pago
+14/06/2025;Amélia da Silva;25;F;Consulta;2000;PP;700;Sem Tratamento;0;0;Sem Dívida;Pago
+15/06/2025;Inarcio António;4;M;Consulta;2000;TDR;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+15/06/2025;Inarcio António;4;M;Consulta;0;PP;700;Sem Tratamento;0;0;Sem Dívida;Pago
+15/06/2025;Epeneto da Silva;2;M;Consulta;2000;TDR;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+15/06/2025;Epeneto da Silva;2;M;Consulta;0;PP;700;Sem Tratamento;0;0;Sem Dívida;Pago
+17/06/2025;Severino Tchissaluqila;0;M;Consulta;2000;TDR;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+17/06/2025;Severino Tchissaluqila;0;M;Consulta;0;PP;700;Sem Tratamento;0;0;Sem Dívida;Pago
+17/06/2025;Severino Tchissaluqila;0;M;Consulta;0;VHS;3000;Tratamento;9000;0;Sem Dívida;Pago
+17/06/2025;Anastacio;0;M;Consulta;2000;TDR;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+17/06/2025;Anastacio;0;M;Consulta;0;PP;700;Sem Tratamento;0;0;Sem Dívida;Pago
+17/06/2025;Siloé Agostinho;0;M;Consulta;2000;PP;700;Sem Tratamento;0;0;Sem Dívida;Pago
+18/06/2025;Wayami Coli;0.11;F;Consulta;2000;TDR;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+18/06/2025;Wayami Coli;0.11;F;Consulta;0;PP;700;Sem Tratamento;0;0;Sem Dívida;Pago
+19/06/2025;Graça Frutuoso;29;M;Consulta;2000;VDRL;3000;Sem Tratamento;0;0;Sem Dívida;Pago
+19/06/2025;Graça Frutuoso;29;M;Consulta;0;Urina;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+19/06/2025;Paula Francisco;35;F;Consulta;2000;TDR;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+19/06/2025;Paula Francisco;35;F;Consulta;0;PP;700;Sem Tratamento;0;0;Sem Dívida;Pago
+19/06/2025;Catarina Manuel;28;F;Consulta;2000;Não Fez;0;Sem Tratamento;0;0;Sem Dívida;Pago
+19/06/2025;Domingas Matos;46;M;Consulta;2000;TDR;1500;Soro;2000;0;Sem Dívida;Pago
+19/06/2025;Domingas Matos;46;M;Consulta;0;PP;700;Sem Tratamento;0;0;Sem Dívida;Pago
+19/06/2025;valdemar Cesar;21;M;Consulta;2000;TDR;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+20/06/2025;Benjamim Marice;55;M;Consulta;2000;Urina;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+20/06/2025;Aurora Matos ;43;F;não fez;0;Não Fez;0;Curativo;1000;0;Sem Dívida;Pago
+21/06/2025;Luzia João;25;F;Consulta;2000;Não Fez;0;Curativo 3 pontos;3000;0;Sem Dívida;Pago
+23/06/2025;Leonardo d Costa;28;M;Consulta;2000;TDR;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+23/06/2025;Leonardo d Costa;28;M;Consulta;0;PP;700;Sem Tratamento;0;0;Sem Dívida;Pago
+23/06/2025;Leonardo d Costa;28;M;Consulta;0;Urina;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+23/06/2025;Domingas Teibeira;50;F;Consulta;2000;TDR;1500;Soro;2000;0;Sem Dívida;Pago
+23/06/2025;Domingas Teibeira;50;F;Consulta;0;PP;700;Sem Tratamento;0;0;Sem Dívida;Pago
+23/06/2025;Misael dos Santos;4;M;Control;2000;Não Fez;0;Sem Tratamento;0;0;Sem Dívida;Pago
+23/06/2025;Paulo Manuel;58;M;Consulta;0;Widall;2000;Sem Tratamento;0;0;Sem Dívida;Pago
+23/06/2025;Paulo Manuel;58;M;Consulta;0;H. Pillory;2000;Sem Tratamento;0;0;Sem Dívida;Pago
+23/06/2025;Joaquina Ressusreição;0;F;Consulta;2000;TDR;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+23/06/2025;Joaquina Ressusreição;0;F;Consulta;0;Glicose;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+23/06/2025;Carlos José;0;M;Consulta;2000;TDR;1500;Soro;2000;0;Sem Dívida;Pago
+23/06/2025;Carlos José;0;M;Consulta;0;Glicose;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+23/06/2025;Sirene Duca;0;F;Consulta;2000;TDR;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+23/06/2025;Sirene Duca;0;F;Consulta;0;PP;700;Sem Tratamento;0;0;Sem Dívida;Pago
+23/06/2025;Edna Martins;0;M;Consulta;2000;TDR;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+23/06/2025;Edna Martins;0;M;Consulta;0;PP;700;Sem Tratamento;0;0;Sem Dívida;Pago
+24/06/2025;Manuel Cole;12;M;Consulta;2000;TDR;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+24/06/2025;Manuel Cole;12;M;Consulta;0;PP;700;Sem Tratamento;0;0;Sem Dívida;Pago
+24/06/2025;Josiane  Cole;9;F;Consulta;2000;TDR;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+24/06/2025;Josiane  Cole;9;F;Consulta;0;PP;700;Sem Tratamento;0;0;Sem Dívida;Pago
+25/06/2025;Sergio Neto;0;M;Consulta;2000;TDR;1500;Sem Tratamento;0;4200;Sem Dívida;Pago
+25/06/2025;Sergio Neto;0;M;Consulta;0;PP;700;Sem Tratamento;0;0;Sem Dívida;Pago
+25/06/2025;João Inacio;49;M;Consulta;2000;TDR;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+25/06/2025;João Inacio;49;M;Consulta;0;PP;700;Sem Tratamento;0;0;Sem Dívida;Pago
+25/06/2025;João Inacio;49;M;Consulta;0;VHS;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+25/06/2025;Leonardo Gaspar ;25;M;Consulta;2000;TDR;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+25/06/2025;Leonardo Gaspar ;25;M;Consulta;0;PP;700;Sem Tratamento;0;0;Sem Dívida;Pago
+25/06/2025;João Cambunda;32;M;Consulta;2000;Urina;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+25/06/2025;João Cambunda;32;M;Consulta;0;PP;700;Sem Tratamento;0;0;Sem Dívida;Pago
+25/06/2025;Filomena Manuel;27;F;Consulta;2000;TDR;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+25/06/2025;Filomena Manuel;27;F;Consulta;0;PP;700;Sem Tratamento;0;0;Sem Dívida;Pago
+25/06/2025;Fausto Bernardo;36;M;Consulta;2000;TDR;1500;Sem Tratamento;0;4200;Exames e tratamento;Não Pago
+25/06/2025;Fausto Bernardo;36;M;Consulta;0;PP;700;Sem Tratamento;0;0;Sem Dívida;Pago
+25/06/2025;Ariela Cassoma;3;F;Consulta;2000;TDR;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+25/06/2025;Ariela Cassoma;3;F;Consulta;0;PP;700;Sem Tratamento;0;0;Sem Dívida;Pago
+26/06/2025;Deiziane Teodor ;0.11;F;Consulta;2000;PP;700;Sem Tratamento;0;0;Sem Dívida;Pago
+26/06/2025;Mária Baza;24;F;Consulta;2000;Urina;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+26/06/2025;Mária Baza;24;F;Consulta;0;PP;700;Sem Tratamento;0;0;Sem Dívida;Pago
+26/06/2025;Edvania Carnote;17;F;Consulta;2000;TDR;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+26/06/2025;Edvania Carnote;17;F;Consulta;0;PP;700;Sem Tratamento;0;0;Sem Dívida;Pago
+27/06/2025;Erivanio Samuel;8;M;Consulta;2000;TDR;1500;Sem Tratamento;0;9000;Tratamento;Não Pago
+27/06/2025;Erivanio Samuel;8;M;Consulta;0;PP;700;Tratamento;9000;0;Sem Dívida;Pago
+27/06/2025;Santo Gabriel ;7;M;Consulta;2000;TDR;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+27/06/2025;Santo Gabriel ;7;M;Consulta;0;PP;700;Sem Tratamento;0;0;Sem Dívida;Pago
+28/06/2025;Abdel Manuel;0.11;M;Consulta;2000;TDR;1500;Sem Tratamento;0;2200;exames e Consulta;Não Pago
+28/06/2025;Abdel Manuel;0.11;M;Consulta;0;PP;700;Sem Tratamento;0;0;Sem Dívida;Pago
+28/06/2025;Mária Fátima ;34;F;Consulta;2000;TDR;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+28/06/2025;Mária Fátima ;34;F;Consulta;0;PP;700;Sem Tratamento;0;0;Sem Dívida;Pago
+28/06/2025;Ilda Branda;33;F;Consulta;2000;Urina;1500;Tratamento;9000;0;Sem Dívida;Pago
+28/06/2025;Ilda Branda;33;F;Consulta;0;PP;700;Sem Tratamento;0;0;Sem Dívida;Pago
+28/06/2025;Zoe Zola;7;F;Consulta;2000;TDR;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+28/06/2025;Zoe Zola;7;F;Consulta;0;PP;700;Sem Tratamento;0;0;Sem Dívida;Pago
+28/06/2025;Zoe Zola;7;F;Consulta;0;Vidal;1000;Sem Tratamento;0;0;Sem Dívida;Pago
+28/06/2025;Edvanio Manuel;27;M;Consulta;2000;TDR;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+28/06/2025;Edvanio Manuel;27;M;Consulta;0;PP;700;Sem Tratamento;0;0;Sem Dívida;Pago
+29/06/2025;Simão carvalho;54;M;Consulta;2000;TDR;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+29/06/2025;Simão carvalho;54;M;Consulta;0;PP;700;Sem Tratamento;0;0;Sem Dívida;Pago
+29/06/2025;Simão carvalho;54;M;Consulta;0;VHS;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+29/06/2025;Pintos Marcos ;42;M;Consulta;2000;TDR;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+29/06/2025;Pintos Marcos ;42;M;Consulta;0;PP;700;Sem Tratamento;0;0;Sem Dívida;Pago
+29/06/2025;Denzel Miguel;3;M;Consulta;2000;TDR;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+29/06/2025;Denzel Miguel;3;M;Consulta;0;PP;700;Sem Tratamento;0;0;Sem Dívida;Pago
+30/06/2025;Edna Martins;21;F;não fez;0;Não Fez;0;Tratamento;9000;0;Sem Dívida;Pago
+30/06/2025;Dumilde Neto;37;F;Consulta;2000;TDR;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+30/06/2025;Dumilde Neto;37;F;Consulta;0;PP;700;Sem Tratamento;0;0;Sem Dívida;Pago
+30/06/2025;Dumilde Neto;37;F;Consulta;0;VHS;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+30/06/2025;Marfui Kayongo;0;M;Consulta;2000;PP;700;Sem Tratamento;0;0;Sem Dívida;Pago
+30/06/2025;Nunes Cole;0;M;Consulta;2000;TDR;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+30/06/2025;Nunes Cole;0;M;Consulta;0;Urina;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+30/06/2025;Nunes Cole;0;M;Consulta;0;VHS;1500;Sem Tratamento;0;0;Sem Dívida;Pago
+01/07/2025;Martinho Manuel;46;M;Consulta;2000;TDRM;1500;;;;;Pago
+01/07/2025;Martinho Manuel;46;M;;;PP;700;;;;;Pago
+01/07/2025;Marcelina Fonceca;23;F;Consulta;2000;TDRM;1500;;;;;Pago
+01/07/2025;Marcelina Fonceca;23;F;;;PP;700;;;;;Pago
+02/07/2025;Maria Lima;32;F;Consulta;2000;TDRM;1500;;;;;Pago
+02/07/2025;Anair Npingue;1.6;F;Consulta;2000;TDRM;1500;;;;;Pago
+02/07/2025;Anair Npingue;1.6;F;;;PP;700;;;;;Pago
+02/07/2025;Almeida Mauel;;M;;;;;Tratamento;2000;;;Pago
+03/07/2025;Otávio Cristovão;;M;Consulta;2000;TDRM;1500;;;;;Pago
+03/07/2025;Otávio Cristovão;;;;;PP;700;;;;;Pago
+03/07/2025;Joseas Manuel;;M;Consulta;2000;TDRM;1500;;;;;Pago
+03/07/2025;Joseas Manuel;;;;;PP;700;;;;;Pago
+03/07/2025;Alexandre Vunda;;M;Consulta;2000;Urina;1500;;;;;Pago
+03/07/2025;Alexandre Vunda;;;;;Widall;1000;;;;;Pago
+03/07/2025;Vitória Albano;;F;Consulta;2000;VHS;1500;;;;;Pago
+03/07/2025;Vitória Albano;;;;;TDRM;1500;;;;;Pago
+04/07/2025;Celeste Calenga;;F;;;;;Curativo;20000;;;Pago
+04/07/2025;Jose Manuel;9;M;Consulta;2000;;;Tratamento;9000;;;Pago
+04/07/2025;Adilson José;;F;Consulta;2000;;;Tratamento;6000;;;Pago
+04/07/2025;Edna Pereira;;;;;;;Tratamento;6000;;;Pago
+04/07/2025;Joel Senga;2;M;Consulta;2000;Widall;1000;;;;;Pago
+04/07/2025;Joel Senga;;;;;PP;700;;;;;Pago
+05/07/2025;Simão Carvalho;54;M;Consulta;2000;TDRM;1500;Tratamento;13000;;;Pago
+06/07/2025;Nunes Cole;;;;;;;Tratamento;9000;4000;tratamento;Não Pago
+06/07/2025;Fátima Raimundo;50;F;Consulta;2000;TDRM;1500;;;;;Pago
+06/07/2025;Fátima Raimundo;;;;;PP;700;;;;;Pago
+07/07/2025;Elizandro Manuel;14;F;Consulta;2000;PP;700;;;;;Pago
+07/07/2025;Domingos Andrade;7;M;Consulta;2000;TDRM;1500;;;3500;Consulta e tratamento;Não Pago
+07/07/2025;Domingos Andrade;;F;;;PP;700;;;;;Pago
+09/07/2025;João Vunge Francisco;72;M;Consulta;2000;TDRM;1500;;;6200;;Não Pago
+09/07/2025;João Vunge Francisco;;F;;;PP;700;;;;;Pago
+09/07/2025;João Vunge Francisco;;;;;Widall;1000;Tratamento;11000;;;Pago
+09/07/2025;Emiliana V. S. Miguel;6;F;Consulta;2000;TDRM;1500;;;;;Pago
+09/07/2025;Emiliana V. S. Miguel;;;;;PP;700;;;;;Pago
+09/07/2025;Nelson A. Barros;31;M;Consulta;2000;TDRM;1500;;;;;Pago
+09/07/2025;Nelson A. Barros;;;;;PP;700;;;;;Pago
+09/07/2025;Nelson A. Barros;;;;;Widall;1000;;;;;Pago
+10/07/2025;Ouasi Jeremias;2;M;;;;;Tratamento;9000;;;Pago
+10/07/2025;Júlio João;; M ;Consulta;2000;Urina;1500;;;;;Pago
+10/07/2025;Júlio João;;;;;PP;700;;;;;Pago
+10/07/2025;Serafim Jerónimmo;51; F ;Consulta;2000;VDRL;2000;;;;;Pago
+10/07/2025;Arminda Zovo;7; F ;Consulta;2000;PP;700;;;700;exame;Não Pago
+10/07/2025;Ricardo Bambi;16;M;Consulta;2000;TDRM;1500;;;;;Pago
+10/07/2025;Ricardo Bambi;;;;;PP;700;;;;;Pago
+10/07/2025;Mila Gaspar;;F;;;TDR;1500;;;2200;consulta e exames;Não Pago
+10/07/2025;Mila Gaspar;;;;;H Pilory;3000;;;;;Pago
+10/07/2025;Domingas Teixeira;;F;;;PP;700;;;;;Pago
+10/07/2025;Domingas Teixeira;;;;;TDR;1500;;;;;Pago
+11/07/2025;Elier José;1.11;M;Consulta;2000;PP;700;;;700;exame;Não Pago
+12/07/2025;Dirmania André;1;F;Consulta;2000;TDR;1500;;;;;Pago
+12/07/2025;Dirmania André;;;;;PP;700;;;;;Pago
+12/07/2025;Graciano Mendes;5;M;Consulta;2000;PP;700;;;;;Pago
+12/07/2025;Sebastião Sampaio;2;;Consulta;2000;PP;700;;;;;Pago
+12/07/2025;Sebastião Sampaio;;;;;Widall;1000;;;;;Pago
+15/07/2025;Esperença Silva;31;F;;;Teste de  Gravidez;2000;;;;;Pago
+15/07/2025;Francisco Dala;24;M;Consulta;2000;TDR;1500;Soro;2000;;;Pago
+15/07/2025;Francisco Dala;;;;;PP;700;;;;;Pago
+15/07/2025;Flore José Lima;4;F;Consulta;2000;TDR;1500;;;;;Pago
+15/07/2025;Flore José Lima;;;;;PP;700;;;;;Pago
+16/07/2025;Joana Mateus;24;F;Consulta;2000;TDR;1500;;;;;Pago
+16/07/2025;Joana Mateus;;;;;PP;700;;;;;Pago
+17/07/2025;Solene Pascoal;;F;Consulta;2000;TDR;1500;;;;;Pago
+17/07/2025;Solene Pascoal;;;;;PP;700;;;;;Pago
+17/07/2025;Uami Caetano;;M;Consulta;2000;pp;700;;;;;Pago
+17/07/2025;Uami Caetano;;;;;TDR;1500;;;;;Pago
+17/07/2025;Nataniel Silva;;M;Consulta;2000;PP;700;Tratamento;9000;tratamento;;Não Pago
+17/07/2025;Nataniel Silva;;;;;TDR;1500;;;;;Pago
+17/07/2025;Maria Vunge;;M;;;;;Tratamento;14200;14200;consulta e exames;Não Pago
+18/07/2025;Wayele Santos;0.8;M;Consulta;2000;TDR;1500;;;;;Pago
+19/07/2025;Tiago Guiné;40;M;Consulta;2000;TDR;1500;;;;;Pago
+19/07/2025;Tiago Guiné;;M;;;PP;700;;;;;Pago
+20/07/2025;Anderson Fernandes;16;M;Consulta;2000;PP;700;Soro;2000;;;Pago
+20/07/2025;Anderson Fernandes;;;;;TDR;1500;;;;;Pago
+20/07/2025;Vicente Cuacala;;;Consulta;2000;PP;700;;;;;Pago
+20/07/2025;Vicente Cuacala;;;;;TDR;1500;;;;;Pago
+21/07/2025;Esperança José;47;F;Consulta;2000;PP;700;;;;;Pago
+21/07/2025;Esperança José;;;;;TDR;1500;;;;;Pago
+21/07/2025;Vicente Cuacala;;;;;;;Tratamento;9000;;;Pago
+22/07/2025;Iracelma Pedro;18;M;Consulta;2000;;;;;;;Pago
+23/07/2025;Quelsea Domingos;15;F;Consulta;2000;PP;700;;;;;Pago
+23/07/2025;Quelsea Domingos;;;;;TDR;1500;;;;;Pago
+23/07/2025;Carlos Pereira;25;M;;;;;Tratamento;8000;;;Pago
+23/07/2025;Osvaldo João;;M;Consulta;2000;PP;700;;;;;Pago
+23/07/2025;Osvaldo João;;M;;;TDR;1500;;;;;Pago
+24/07/2025;Séfora Pedro;17;F;Consulta;2000;VHS;1500;;;;;Pago
+24/07/2025;Séfora Pedro;;;;;TDR;1500;;;;;Pago
+24/07/2025;Nelson A. Barros;31;M;;;HBS;2000;;;;;Pago
+24/07/2025;Nelson A. Barros;;;;;HIV;2000;;;;;Pago
+24/07/2025;Nelson A. Barros;;;;;VDRL;3000;;;;;Pago
+24/07/2025;Nelson A. Barros;;;;;Urina;1500;;;;;Pago
+24/07/2025;Juliana Sebastião;20;F;;;HBS;2000;;;;;Pago
+24/07/2025;Juliana Sebastião;;;;;HIV;2000;;;;;Pago
+24/07/2025;Juliana Sebastião;;;;;VDRL;3000;;;;;Pago
+25/07/2025;Margarida da Silva;23;F;Consulta;2000;TDR;1500;;;;;Pago
+25/07/2025;Margarida da Silva;;;;;PP;700;;;;;Pago
+25/07/2025;Daniela Francisco;10;F;Consulta;2000;TDR;1500;;;4200;;Não Pago
+25/07/2025;Daniela Francisco;;;;;PP;700;;;;;Pago
+26/07/2025;Faustino Ramos;62;M;Consulta;2000;TDR;1500;Soro;2300;;;Pago
+26/07/2025;Faustino Ramos;;;;;PP;700;;;;;Pago
+26/07/2025;Aila Chissola;0.11;F;Consulta;2000;TDR;1500;;;;;Pago
+26/07/2025;Aila Chissola;;;;;PP;700;;;;;Pago
+26/07/2025;Adelino Tomé Saime;13;M;Consulta;2000;TDR;1500;;;;;Pago
+26/07/2025;Adelino Tomé Saime;;;;;PP;700;;;;;Pago
+26/07/2025;Jurelmo Alexandre;1.9;M;Consulta;2000;TDR;1500;;;;;Pago
+26/07/2025;Jurelmo Alexandre;;;;;PP;700;;;;;Pago
+26/07/2025;Ednaldo Caetano;1.7;M;Consulta;2000;TDR;1500;;;;;Pago
+26/07/2025;Ednaldo Caetano;;;;;PP;700;;;;;Pago
+26/07/2025;Eufrásia Rosa;16;F;Consulta;2000;;;;;;;Pago
+26/07/2025;Deolinda Bunga;9;F;Consulta;2000;TDR;1500;;;;;Pago
+26/07/2025;Deolinda Bunga;;F;;;PP;700;;;;;Pago
+27/07/2025;Celeste Calenga;33;F;;;;;Curativo;5000;;;Pago
+27/07/2025;Atalaia Gregório;1;F;Consulta;2000;TDR;1500;;;;;Pago
+27/07/2025;Atalaia Gregório;;;;;PP;700;;;;;Pago
+27/07/2025;Joçao André;7;M;Consulta;2000;TDR;1500;;;;;Pago
+27/07/2025;Joçao André;;;;;PP;700;;;;;Pago
+27/07/2025;Sílvio Reis;2;M;Consulta;2000;TDR;1500;;;;;Pago
+27/07/2025;Sílvio Reis;;;;;PP;700;;;;;Pago
+27/07/2025;Antónia Morais;37;F;;;Teste de  Gravidez;2000;;;;;Pago
+27/07/2025;Vicente Lucas;49;M;Consulta;2000;PP;700;;;;;Pago
+27/07/2025;Vicente Lucas;;F;;;TDR;1500;;;;;Pago
+27/07/2025;Josefa Laurindo;;F;Consulta;2000;H. Pillory;1500;;;;;Pago
+27/07/2025;Josefa Laurindo;;M;;;TDR;1500;;;;;Pago
+28/07/2025;Justino Pedro;70;M;Consulta;2000;;;;;;;Pago
+28/07/2025;Daniel Chico;56;M;Consulta;2000;TDR;1500;;;;;Pago
+28/07/2025;Daniel Chico;;;;;VHS;1500;;;;;Pago
+28/07/2025;Séfora Pedro;;F;;;;;Tratamento;4000;;;Pago
+28/07/2025;Marcos Neto;17;M;Consulta;2000;;;;;;;Pago
+28/07/2025;Teresa dos Santos;88;F;Consulta;2000;PP;700;;;;;Pago
+28/07/2025;Teresa dos Santos;;F;;;TDR;1500;;;;;Pago
+28/07/2025;Vicente Lucas;;;;;;;Tratamento;20000;;;Pago
+29/07/2025;Angelina Helena;53;F;Consulta;2000;TDR;1500;Tratamento;10000;4200;consulta e exames;Não Pago
+29/07/2025;Angelina Helena;;;;;PP;700;;;;;Pago
+29/07/2025;Justino Ekangala;38;M;Consulta;2000;TDR;1500;;;;;Pago
+29/07/2025;Justino Ekangala;;;;;PP;700;;;;;Pago
+29/07/2025;Anair Martins;1.7;F;Consulta;2000;TDR;1500;;;;;Pago
+29/07/2025;Anair Martins;;;;;PP;700;;;;;Pago
+29/07/2025;Nunes Cole;41;M;Consulta;2000;TDR;1500;;;;;Pago
+29/07/2025;Nunes Cole;;;;;PP;700;;;;;Pago
+29/07/2025;Domingas Teixeira;50;F;Consulta;2000;TDR;1500;;;5000;Exames e consulta;Não Pago
+29/07/2025;Domingas Teixeira;;;;;Fezes;1500;;;;;Pago
+29/07/2025;Horácio Pacheco;30;M;Desconto Familiar;;PP;700;;;;;Pago
+29/07/2025;Horácio Pacheco;;;;;VDRL;1000;;;;;Pago
+29/07/2025;Horácio Pacheco;;;;;Urina;1500;;;;;Pago
+29/07/2025;João Andre;;;;;Vidal;1000;Tratamento;10000;;;Pago
+30/07/2025;Stelvia Zola;12;F;Consulta;2000;TDR;1500;;;;;Pago
+30/07/2025;Stelvia Zola;;;;;PP;700;;;;;Pago
+30/07/2025;Flávia Cambila;;;;;;;Tratamento;6000;;;Pago
+30/07/2025;Horácio Pacheco;30;M;;;;;Tratamento;10000;;;Pago
+31/07/2025;Juselmo Ekalanga;9;M;Consulta;2000;TDR;1500;;;;;Pago
+31/07/2025;Juselmo Ekalanga;;;;;PP;700;;;;;Pago
+31/07/2025;Daniel Madia;5;M;Consulta;2000;TDR;1500;;;;;Pago
+31/07/2025;Daniel Madia;;;;;PP;700;;;;;Pago
+31/07/2025;Miguel Mpinge;25;M;Consulta;2000;TDR;1500;;;;;Pago
+31/07/2025;Miguel Mpinge;;;;;PP;700;;;;;Pago
+31/07/2025;Fernando Anastácio;8;M;Consulta;2000;TDR;1500;;;;;Pago
+01/08/2025;Júlia Andre;40;F;Consulta;2000;TDRM;1500;Tratamento;9000;;;Pago
+01/08/2025;Júlia Andre;;;;;Widall;1000;;;;;Pago
+01/08/2025;Júlia Andre;;;;;PP;700;;;;;Pago
+01/07/2025;Gerónio Gabriel;5;M;Consulta;2000;PP;700;;;;;Pago
+03/08/2025;António Simão;57;M;Consulta;2000;PP;700;;;;;Pago
+03/08/2025;Wayami Cole;1.1;M;Consulta;2000;TDRM;1500;Tratamento;11200;;;Pago
+03/08/2025;Wayami Cole;;;;;PP;700;;;;;Pago
+03/08/2025;Joel Senga;2;M;Consulta;2000;TDRM;1500;;;;;Pago
+03/08/2025;Joel Senga;;;;;PP;700;;;;;Pago
+03/08/2025;Panda Lutomba;;;Consulta;2000;TDRM;1500;Tratamento;10000;;;Pago
+03/08/2025;Panda Lutomba;;;;;PP;700;;;;;Pago
+03/08/2025;Margarida Domingos;37;F;;;;;Tratamento;14000;;;Pago
+03/08/2025;Sérgio Neto;;M;Consulta;2000;TDRM;1500;;;;;Pago
+03/08/2025;Sérgio Neto;;;;;PP;1000;;;;;Pago
+03/08/2025;Stelvia Zola;12;F;Consulta;2000;TDRM;1500;Tratamento;11000;;;Pago
+03/08/2025;Stelvia Zola;;;;;PP;700;;;;;Pago
+03/08/2025;Henrique Ndala;15;M;Consulta;2000;TDRM;1500;Tratamento;;;;Pago
+03/08/2025;Henrique Ndala;;;;;PP;700;;;;;Pago
+04/08/2025;Yolene Neves;19;F;Consulta;2000;TDRM;1500;;11000;;;Pago
+04/08/2025;Yolene Neves;;;;;PP;700;;;;;Pago
+04/08/2025;Isabel Vieira;53;F;Consulta;2000;TDRM;1500;Soro;1800;;;Pago
+04/08/2025;Isabel Vieira;;;;;PP;700;;;;;Pago
+04/08/2025;Rosa;44;F;Consulta;2000;VHS;1500;;;;;Pago
+04/08/2025;Rosa;;;;;Urina;1500;;;;;Pago
+04/08/2025;Telma  Wila;14;F;Consulta;2000;TDRM;1500;;;;;Pago
+04/08/2025;Telma  Wila;;;;;PP;700;;;;;Pago
+04/08/2025;Juliana Wila ;9;F;Consulta;2000;TDRM;1500;;;;;Pago
+04/08/2025;Juliana Wila ;;;;;PP;700;;;;;Pago
+05/08/2025;Josimar Tiago;;F;Consulta;2000;TDRM;1500;;;;;Pago
+05/08/2025;Josimar Tiago;;;;;PP;700;;;;;Pago
+05/08/2025;Miguel Mpinge;;M;Consulta;2000;TDRM;1500;;;;;Pago
+05/08/2025;Miguel Mpinge;;;;;PP;700;;;;;Pago
+05/08/2025;Caetano Tchingue;;M;Consulta;2000;TDRM;1500;;;;;Pago
+05/08/2025;Caetano Tchingue;;;;;PP;700;;;;;Pago
+05/08/2025;Yarem André;;F;Consulta;2000;TDRM;1500;;;;;Pago
+05/08/2025;Yarem André;;;;;PP;700;;;;;Pago
+06/08/2025;Laurinda Raul;19; F ;Consulta;2000;Urina;1000;;;;;Pago
+06/08/2025;Laurinda Raul;;;;;PP;700;;;;;Pago
+06/08/2025;Caetano Tchingue;18;;;;;;Tratamento;9000;;;Pago
+07/08/2025;Isaul Cazombo;44;F;Consulta;2000;TDRM;1500;;;;;Pago
+07/08/2025;Isaul Cazombo;;;;;PP;700;;;;;Pago
+07/08/2025;Hernani Cláudio;8; M ;Consulta;2000;TDRM;1500;;;;;Pago
+07/08/2025;Hernani Cláudio;;;;;PP;700;;;;;Pago
+08/08/2025;Francisca Bartolomeu;; M ;Consulta;2000;PP;700;;;;;Pago
+08/08/2025;João Francisco;;M;Consulta;2000;TDRM;1500;;;;;Pago
+08/08/2025;João Francisco;;;;;PP;700;;;;;Pago
+08/08/2025;Wayami Senga;;;Consulta;2000;TDRM;1500;;;;;Pago
+08/08/2025;Wayami Senga;;;;;PP;700;;;;;Pago
+08/08/2025;Alegria Capitango;;;Consulta;2000;PP;700;;;;;Pago
+08/08/2025;Alice Carnote;;;Consulta;2000;TDRM;1500;;;;;Pago
+08/08/2025;Alice Carnote;;;;;PP;700;;;;;Pago
+08/08/2025;Luzia Francisco;;;Consulta;2000;Urina;1500;;;;;Pago
+08/08/2025;Helena Francisco;;;Consulta;2000;TDRM;1500;;;;;Pago
+08/08/2025;Helena Francisco;;;;;PP;700;;;;;Pago
+08/08/2025;Deziane Teodora;;;Consulta;2000;TDRM;1500;;;;;Pago
+08/08/2025;Deziane Teodora;;;;;PP;700;;;;;Pago
+09/08/2025;Isabel Vieira;;;;;Glicémia;1500;;;;;Pago
+09/08/2025;Alzira Gouveia ;;;Consulta;2000;TDRM;2000;;;;;Pago
+09/08/2025;Lucelia Mendez;;;Consulta;2000;TDRM;1500;Tratamento;13000;;;Pago
+09/08/2025;Lucelia Mendez;;;;;PP;700;;;;;Pago
+09/08/2025;Ana Mpilingue;;;Consulta;2000;TDRM;1500;Tratamento;500;;;Pago
+09/08/2025;Ana Mpilingue;;;;;PP;700;;;;;Pago
+09/08/2025;Yarem André;;;;;;;Tratamento;15200;;;Pago
+09/08/2025;Sergia Joaquim;;;;;;;Tratamento;16000;;;Pago
+10/08/2025;Rivaldo Castro;;;;;;;Tratamento;10000;;;Pago
+11/08/2025;Isabel Mácua;;;Consulta;2000;TDRM;1500;;;;;Pago
+11/08/2025;Isabel Mácua;;;;;VHS;1500;;;;;Pago
+11/08/2025;Catarina Luís ;;;Consulta;2000;TDRM;1500;;;;;Pago
+11/08/2025;Catarina Luís ;;;;;VHS;1500;;;;;Pago
+11/08/2025;Catarina Luís ;;;;;Urina;1500;;;;;Pago
+11/08/2025;Andreia Fragoso;;;;;PP;700;;;;;Pago
+11/08/2025;Andreia Fragoso;;;;;Urina;1500;;;;;Pago
+12/08/2025;Isabel Mácua;;;;;;;Tratamento;10000;;;Pago
+12/08/2025;Palmira Sacaúla;;;Consulta;2000;TDRM;1500;;;;;Pago
+12/08/2025;Palmira Sacaúla;;;;;VHS;1500;;;;;Pago
+12/08/2025;Conceição Manuel;;M;;;;;Curativos;10000;;;Pago
+12/08/2025;Asher Quiene;;;Consulta;2000;TDRM;1500;;;;;Pago
+12/08/2025;Asher Quiene;;;;;PP;700;;;;;Pago
+12/08/2025;Rivaldo Castro;;M;;;;;Tratamento;5000;;;Pago
+12/08/2025;Dulce dos Santos ;;F;Consulta;2000;TDRM;1500;;;;;Pago
+12/08/2025;Dulce dos Santos ;;;;;PP;700;;;;;Pago
+12/08/2025;Francisco Eduardo;;;Consulta;2000;TDRM;1500;;;;;Pago
+12/08/2025;Francisco Eduardo;;;;;PP;700;;;;;Pago
+12/08/2025;Palmira Lopes;;;Consulta;2000;TDRM;1500;;;;;Pago
+12/08/2025;Palmira Lopes;;;;;VHS;1500;;;;;Pago
+12/08/2025;Palmira Lopes;;;;;PP;700;;;;;Pago
+13/08/2025;Laurinda Anastácia;;F;Consulta;2000;TDRM;1500;;;;;Pago
+13/08/2025;Laurinda Anastácia;;;;;PP;700;;;;;Pago
+13/08/2025;Sónia André;;F;Consulta;2000;TDRM;1500;;;;;Pago
+13/08/2025;Sónia André;;;;;VHS;1500;;;;;Pago
+13/08/2025;Sónia André;;;;;PP;700;;;;;Pago
+13/08/2025;Albino Luwawa;;;;;;;Tratamento;12000;;;Pago
+01/09/2025;Adriano Kwanza ;25;M;Consulta;2000;VDRL;1500;;;500;Exame ;Não Pago
+01/09/2025;Adriano Kwanza ;;;;;Urina;1500;;;;;Pago
+01/09/2025;Carlos Valeontim;25;M;Consulta;2000;VDRL;1500;;;;;Pago
+01/09/2025;Carlos Valeontim;;;;;Urina;1500;;;;;Pago
+01/09/2025;Mauro Domingos;12;M;Consulta;2000;TDRM;1500;;;;;Pago
+01/09/2025;Mauro Domingos;;;;;PP;7000;;;;;Pago
+01/09/2025;Nereu Santos;;;;;TDRM;1500;;;;;Pago
+01/09/2025;Marcos António;;M;Consulta;2000;;;;;;;Pago
+02/09/2025;Francisco Eduardo;28;M;Consulta;2000;PP;700;Tratamento;9000;;;Pago
+02/09/2025;Francisco Eduardo;;;;;TDRM;1500;;;;;Pago
+02/09/2025;António João Vicente;42;M;Consulta;2000;;;Pagamento;5000;;;Pago
+02/09/2025;António João;16;M;;;;;Pagamento;10000;;;Pago
+03/09/2025;Eziel Manuel;;M;Consulta;2000;TDRM;1500;;;;;Pago
+03/09/2025;Eziel Manuel;;;;;PP;700;;;;;Pago
+03/09/2025;Leonardo Gaspar;25;M;Consulta;2000;TDRM;1500;Tratamento;9000;;;Pago
+03/09/2025;Leonardo Gaspar;;;;;PP;700;;;;;Pago
+04/09/2025;Idaleci Frutuoso;8;M;Consulta;2000;;;;;;;Pago
+04/09/2025;Luther;17;M;Consulta;2000;TDRM;1500;;;;;Pago
+04/09/2025;Luther;;;;;PP;700;;;;;Pago
+04/09/2025;Delfina Cláudio;33;F;Consulta;2000;PP;700;;;;;Pago
+04/09/2025;Delfina Cláudio;;;;;TDRM;1500;;;;;Pago
+04/09/2025;Delfina Cláudio;;;;;Urina;1500;;;;;Pago
+04/09/2025;Ezied Manuel;0.9;M;Consulta;2000;;;;;;;Pago
+04/09/2025;Aldiza Major;29;F;Consulta;2000;TDRM;1500;Tratamento;19600;;;Pago
+04/09/2025;Aldiza Major;;;;;PP;700;Soro e Antibioticos ;7000;;;Pago
+05/09/2025;Ramos ;;M;;;;;;;1200;Exame ;Pago
+05/09/2025;Nereu Santos;58;M;Consulta;2000;TDRM;1500;;;;;Pago
+05/09/2025;Nereu Santos;;;;;Urina;1500;;;;;Pago
+05/09/2025;Elena Cristão;;F;;;;;Injenção;1000;;;Pago
+05/09/2025;Idalcio M. Frutuoso;8;M;;;;;Pagamento;6000;;;Pago
+05/09/2025;Gabriel Uonga;;M;;;;;Pagamento;5000;;;Pago
+05/09/2025;Guilhere Francisco;19;M;Consulta;2000;TDRM;1500;Tratamento;9000;;;Pago
+05/09/2025;Guilhere Francisco;;;;;PP;700;;;;;Pago
+05/09/2025;Delfina Cudicha;33;;;;;;Tratamento;14000;14000;Tratamento;Não Pago
+05/09/2025;Dumilde Baltazar;38;F;Consulta;2000;;;Tratamento;11000;1000;Tratamento;Não Pago
+06/09/2025;Ermelindo Paciencia;50;F;Consulta;2000;TDRM;1500;Tratamento;12000;17700;Consulta e tratamento;Não Pago
+06/09/2025;Ermelindo Paciencia;;;;;PP;700;;;;;Pago
+06/09/2025;Ermelindo Paciencia;;;;;Glicémia;1000;;;;;Pago
+06/09/2025;Catarina Mendes;55; F ;Consulta;2000;TDRM;1500;Tratamento;19700;3700;Tratamento;Não Pago
+06/09/2025;Catarina Mendes;;;;;PP;700;;;;;Pago
+06/09/2025;Catarina Mendes;;;;;Glicémia;1000;;;;;Pago
+06/09/2025;Joaquim Paulo;10; M ;Consulta;2000;TDRM;1500;;;;;Pago
+06/09/2025;Joaquim Paulo;;;;;PP;700;;;;;Pago
+06/09/2025;Joaquim Paulo;;;;;VHS;1500;;;;;Pago
+06/09/2025;Nereu Santos;58;M;;;;;Tratamento;11000;;;Pago
+06/09/2025;Adélio Clever;;;;;;;Pagamento;10000;;;Pago
+08/09/2025;Angel Neves;;;;;;;Curativo;7000;7000;Curativo;Não Pago
+08/09/2025;Catarino João;15;F;Consulta;2000;Widall;1000;;;;;Pago
+08/09/2025;Celeste Calenga;;F;;;;;Pagamento;4000;;;Pago
+08/09/2025;Celeste Calenga;;;;;;;;;;;Pago
+09/09/2025;Nataniel Lopes;1;M;Consulta;2000;TDRM;1500;Tratamento;9000;;;Pago
+09/09/2025;Nataniel Lopes;;;;;PP;700;;;;;Pago
+10/09/2025;Valeria Simão;22;F;Consulta;2000;TDRM;1500;;;;;Pago
+10/09/2025;Rosa Sacate;;;;;;;Pagamento;4000;;;Pago
+10/09/2025;Luzia Paulo;22;F;Consulta;2000;TDRM;1500;;;;;Pago
+10/09/2025;Luzia Paulo;;;;;PP;700;;;;;Pago
+10/09/2025;Dádiva Albano;5;F;;;;;Pagamento;4000;;;Pago
+10/09/2025;Fany Mumaza;33;F;;;;;Pagamento;2000;;;Pago
+11/09/2025;Caetano Ambriz;22;M;Consulta;2000;TDRM;1500;;;;;Pago
+11/09/2025;Caetano Ambriz;;;;;PP;700;;;;;Pago
+11/09/2025;Helena Silvana;;;;;;;Pagamento;14000;2000;Tratamento;Não Pago
+12/09/2025;Cesaltina Paulo;30;F;Consulta;2000;TDRM;1500;;;;;Pago
+12/09/2025;Cesaltina Paulo;;;;;PP;700;;;;;Pago
+12/09/2025;Lídia Antónica ;40;F;Consulta;2000;VHS;1500;Tratamento;12000;;;Pago
+12/09/2025;Wilgene uadica;2;M;Consulta;2000;TDRM;1500;;;;;Pago
+12/09/2025;Wilgene uadica;;;;;PP;700;;;;;Pago
+12/09/2025;Mila Pedro Gaspar;50;F;;;;;Pagamento;13000;;;Pago
+12/09/2025;Mariza Francisco;9;F;Consulta;2000;TDRM;1500;;;;;Pago
+12/09/2025;Mariza Francisco;;;;;PP;700;;;;;Pago
+12/09/2025;Juceline Teresa;9;F;Consulta;2000;TDRM;1500;Injenção;1000;;;Pago
+12/09/2025;Vadinho Durão;1;M;Consulta;2000;TDRM;1500;;;;;Pago
+12/09/2025;Vadinho Durão;;;;;PP;700;;;;;Pago
+12/09/2025;Wismae Almeida;4;M;Consulta;2000;TDRM;1500;;;;;Pago
+12/09/2025;Wismae Almeida;;;;;PP;700;;;;;Pago
+12/09/2025;Fany Muansa;29;F;;;;;Curativo;1000;;;Pago
+13/09/2025;Sicei Manuel;28;M;Consulta;2000;Urina;1500;;;;;Pago
+13/09/2025;Sicei Manuel;;;;;PP;700;;;;;Pago
+13/09/2025;Graça Furtuoso;29;M;Consulta;2000;Urina;1500;;;;;Pago
+13/09/2025;Graça Furtuoso;;;;;PP;700;;;;;Pago
+13/09/2025;Isabel Gabriel ;4;F;Consulta;2000;TDRM;1500;Tratamento;9000;;;Pago
+13/09/2025;Isabel Gabriel ;;;;;PP;700;;;;;Pago
+13/09/2025;Angelino Rocha;0;M;;;;;Pagamento;5000;;;Pago
+14/09/2025;Emilia Vitória;;;;;;;Pagamento;5000;;;Pago
+14/09/2025;Rosa Branco;;;;;;;Pagamento;4200;;;Pago
+15/09/2025;Nelson Pedro;12;M;Consulta;2000;;;;;;;Pago
+15/09/2025;Isaura;18;M;;;Teste de Gravidez;2000;;;;;Pago
+15/09/2025;Rogério Santinha;18;M;;;;;Tratamento;6000;;;Pago
+15/09/2025;Denize Macua;;;;;Hpillory;6000;;;;;Pago
+15/09/2025;Dovánio André;13;M;Consulta;2000;TDRM;1500;;;;;Pago
+15/09/2025;Dovánio André;;;;;PP;700;;;;;Pago
+15/09/2025;Dovánio André;;;;;Widall;1000;;;;;Pago
+16/09/2025;Cleovánio André;;M;;;;;;;5200;Tratamento;Não Pago
+16/09/2025;Noemia ;6;F;Consulta;2000;TDRM;1500;;;;;Pago
+16/09/2025;Noemia ;;;;;PP;700;;;;;Pago
+16/09/2025;Fábia Kambila;;;;;;;Pagamento;10000;;;Pago
+17/09/2025;Julieta;;;Consulta;2000;;;soro;3000;;;Pago
+17/09/2025;Josemila Bambi;3;;Consulta;2000;TDRM;1500;;;4200;Tratamento;Não Pago
+17/09/2025;Josemila Bambi;;;;;PP;700;;;;;Pago
+18/09/2025;Teresa Alberto Peres;9;F;Consulta;2000;TDRM;1500;;;;;Pago
+18/09/2025;Teresa Alberto Peres;;;;;PP;700;;;;;Pago
+18/09/2025;Julia (Julieta) Agostinho;44;F;Consulta;2000;PP;700;;;700;Tratamento;Não Pago
+18/09/2025;Caetano;;M;Consulta;2000;TDRM;1500;Tratamento;15000;;;Pago
+18/09/2025;Caetano;;;;;PP;700;;;;;Pago
+18/09/2025;Caetano Quiça;27;;Consulta;2000;TDRM;1500;Soro;1000;;;Pago
+18/09/2025;Caetano Quiça;;;;;PP;700;;;;;Pago
+18/09/2025;Celita Manuel;16;F;Consulta;2000;TDRM;1500;Soro;2000;16200;Consulta e tratamento;Não Pago
+18/09/2025;Celita Manuel;;;;;PP;700;Tratamento;9000;;;Pago
+18/09/2025;Celita Manuel;;;;;Widall;1000;;;;;Pago
+18/09/2025;Neumar Adão;1;M;;;;;Pagamento;3000;;;Pago
+18/09/2025;Neumar Adão;;;;;;;;;;;Pago
+19/09/2025;Teresa Francisco;9;F;;;;;Pagamento;5000;;;Pago
+19/09/2025;António Caetano;;M;;;;;Tratamento;6200;9000;Tratamento;Não Pago
+19/09/2025;Salvador Miguel;;M;;;;;Tratamento;8400;;;Pago
+21/09/2025;Dilma Carnote;;F;;;;;Pagamento;6000;;;Pago
+22/09/2025;Edvanio Carnote;17;M;;;;;Pagamento;6000;;;Pago
+22/09/2025;Edmiro Pascola;21;M;Consulta;2000;TDRM;1500;;;;;Pago
+22/09/2025;Edmiro Pascola;;;;;PP;700;;;;;Pago
+22/09/2025;Pedro;;F;Consulta;2000;;;Soro;2000;;;Pago
+22/09/2025;Teresa Francisco;9;F;;;;;Tratamento;4000;;;Pago
+22/09/2025;Jorge Miguel Cassule;54;M;Consulta;2000;;;;;;;Pago
+23/09/2025;Joana Kambila;16;F;Consulta;2000;;;Tratamento;8000;2000;Tratamento;Não Pago
+23/09/2025;Cleofánio Furtuoso;0.6;;Consulta;2000;TDRM;1500;;;;;Pago
+23/09/2025;Cleofánio Furtuoso;;;;;PP;700;;;;;Pago
+23/09/2025;Luzia Azevedo;2;F;Consulta;2000;TDRM;1500;;;;;Pago
+23/09/2025;Luzia Azevedo;;;;;PP;700;;;;;Pago
+23/09/2025;Vicelma Capitão;4;F;Consulta;2000;TDRM;1500;;;;;Pago
+23/09/2025;Alegria Capitão;9;F;Consulta;2000;TDRM;1500;;;;;Pago
+24/09/2025;Vilma;;;;;;;Tratamento;3000;3000;Tratamento;Não Pago
+24/09/2025;Manuel Francisco;;M;Consulta;2000;;;Tratamento;11000;;;Pago
+24/09/2025;Vicelma Capitão;;;;;;;Tratamento;9000;;;Pago
+24/09/2025;Marlete Jesus;25;F;Consulta;2000;TDRM;1500;;;2000;Tratamento;Não Pago
+24/09/2025;Marlete Jesus;;;;;PP;700;;;;;Pago
+24/09/2025;Cristiano Panzo;7;;Consulta;2000;TDRM;1500;;;;;Pago
+24/09/2025;Cristiano Panzo;;;;;PP;700;;;;;Pago
+24/09/2025;Germano;;;;;Hpillory;6000;;;;;Pago
+25/09/2025;Djaumar Colengo ;18;M;Consulta;2000;TDRM;1500;Soro;2000;;;Pago
+25/09/2025;Djaumar Colengo ;;;;;PP;700;;;;;Pago
+25/09/2025;Marlene de Jesus;25;F;;;Urina;2000;;;;;Pago
+25/09/2025;Esperança José;53;F;Consulta;2000;TDRM;1500;;;;;Pago
+25/09/2025;Esperança José;;;;;PP;700;;;;;Pago
+25/09/2025;Mateus Furtuoso;;;;;;;Tratamento;18000;;;Pago
+25/09/2025;Rivaldo Domingos;21;M;Consulta;2000;;;;;;;Pago
+26/09/2025;Faní Mwanza;39;F;Consulta;2000;Urina;1500;;;;;Pago
+26/09/2025;Panda Lutumba;28;M;Consulta;2000;Urina;1500;;;;;Pago
+26/09/2025;Panda Lutumba;;;;;TDRM;1500;;;;;Pago
+26/09/2025;Grimalde Domingos;;;;;;;3d;3000;;;Pago
+26/09/2025;João Massato;48;M;Consulta;2000;TDRM;1500;;;;;Pago
+26/09/2025;João Massato;;;;;PP;700;;;;;Pago
+27/09/2025;André Vicente;2;M;Consulta;2000;TDRM;1500;;;2200;Consulta ;Não Pago
+27/09/2025;André Vicente;;;;;PP;700;;;;;Pago
+27/09/2025;Jesus Armando;22;M;Consulta;2000;VHS;1500;;;3000;Tratamento;Não Pago
+27/09/2025;Jesus Armando;;;;;Glicémia;1500;;;;;Pago
+27/09/2025;Mateus Capita;;M;Consulta;2000;;;;;;;Pago
+27/09/2025;Jose Candele;3;M;Consulta;2000;TDRM;1500;;;200;Tratamento;Não Pago
+28/09/2025;Jose Candele;;;;;PP;700;;;;;Pago
+29/09/2025;Valdemar Tomás;;;;;;;;;8500;Consulta e Tratamento;Não Pago
+29/09/2025;Deize da Rosa;2;F;Consulta;2000;TDRM;1500;;;;;Pago
+29/09/2025;Deize da Rosa;;;;;PP;700;;;;;Pago
+30/09/2025;Filomena Ventura;28;F;Consulta;2000;TDRM;1500;;;4200;Consulta e tratamento;Não Pago
+30/09/2025;Filomena Ventura;;;;;PP;700;;;;;Pago
+30/09/2025;Manuela Ventura;25;F;Consulta;2000;TDRM;1500;;;;;Pago
+30/09/2025;Manuela Ventura;;;;;PP;700;;;;;Pago
+30/09/2025;Carina;19;F;;;PP;700;;;;;Pago
+30/09/2025;Grinaldo Domingos;21M;M;;;;;Tratamento;9000;;;Pago
