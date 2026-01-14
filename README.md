@@ -26,4 +26,6 @@ Fico aberto a feedbacks, trocas de ideias e novas oportunidades na área de Aná
 # Dashboard do Projeto
 ![Dashboard Principal](src/Capa.png)
 ![Dashboard Principal](src/Home.png)
+![Dashboard Principal](src/Faturamento1.png)
+![Dashboard Principal](src/Faturamento2.png)
 ![Dashboard Principal](src/Gastos.png)
