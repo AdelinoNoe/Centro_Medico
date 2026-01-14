@@ -24,4 +24,6 @@ O resultado deste trabalho pode ser visto baixando o projeto, onde apresento uma
 Este projeto reforçou ainda mais a importância de decisões baseadas em dados, especialmente na área da saúde, onde informação de qualidade faz toda a diferença.
 Fico aberto a feedbacks, trocas de ideias e novas oportunidades na área de Análise de Dados.
 # Dashboard do Projeto
+![Dashboard Principal](src/Capa.png)
+![Dashboard Principal](src/Home.png)
 ![Dashboard Principal](src/Gastos.png)
